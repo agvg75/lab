@@ -299,3 +299,34 @@ footer p { margin: .3rem 0; font-size: .92rem; color: var(--muted); }
   margin: 0 auto;
   border-radius: 6px;
 }
+
+/* visitor art */
+.art-hero img {
+  display: block; width: 100%; max-width: 54rem; height: auto;
+  margin: 0 auto; border-radius: 6px;
+}
+.art-hero figcaption { font-style: italic; }
+.artgrid {
+  display: grid; gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  margin: 1.5rem 0 1rem;
+}
+.artcard { margin: 0; }
+.artcard img {
+  width: 100%; height: auto; display: block;
+  border: 1px solid var(--rule); border-radius: 6px; background: #fff;
+}
+.artcard figcaption { font-size: .9rem; line-height: 1.5; margin-top: .6rem; }
+.artcard .art-text { display: block; color: var(--muted); margin-top: .3rem; }
+.artcard .art-by { display: block; color: var(--muted); margin-top: .3rem; font-style: italic; }
+
+/* Section headings that double as links to the full treatment */
+h3 > a:only-child {
+  color: inherit;
+  text-decoration-color: var(--red);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+h3 > a:only-child:hover {
+  color: var(--red);
+}
