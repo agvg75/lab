@@ -37,9 +37,12 @@
   <p class="lede">Graduations, papers, grants and the things worth marking. Newest first, each
   one dated so you can see how current this is.</p>
 
-  <div id="newsList">
+  <div id="newsList" data-view="recent">
     <p class="meta">Loading.</p>
   </div>
+
+  <p class="meta">This page covers the past twelve months. Older entries move to the
+  <a href="archive.html">news archive</a>.</p>
 
   <p class="meta">If something is missing here that should not be, write to
   <a href="mailto:avidal@ilstu.edu">avidal@ilstu.edu</a>.</p>
@@ -57,27 +60,6 @@
   </div>
 </footer>
 
-<script>
-(function(){
-  var box=document.getElementById('newsList');
-  fetch('news.json',{cache:'no-store'}).then(function(r){return r.json();}).then(function(items){
-    items.sort(function(a,b){return a.date<b.date?1:-1;});
-    var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
-    function nice(d){var p=d.split('-');return MONTHS[parseInt(p[1],10)-1]+' '+parseInt(p[2],10)+', '+p[0];}
-    var out='', year='';
-    items.forEach(function(it){
-      var y=it.date.slice(0,4);
-      if(y!==year){ out+='<h2>'+y+'</h2>'; year=y; }
-      out+='<article class="newsitem">';
-      out+='<p class="meta"><span class="newstag">'+it.tag+'</span> '+nice(it.date)+'</p>';
-      out+='<h3>'+it.title+'</h3><p>'+it.body+'</p>';
-      if(it.image){ out+='<figure class="fig photo newsfig"><img src="'+it.image+'" alt="'+(it.alt||'')+'" loading="lazy"></figure>'; }
-      if(it.link){ out+='<p><a href="'+it.link+'">'+(it.linkText||'Read more')+'</a></p>'; }
-      out+='</article>';
-    });
-    box.innerHTML=out||'<p class="meta">Nothing recorded yet.</p>';
-  }).catch(function(){ box.innerHTML='<p class="meta">The news list could not be loaded.</p>'; });
-})();
-</script>
+<script src="news.js"></script>
 </body>
 </html>
