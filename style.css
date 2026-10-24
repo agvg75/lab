@@ -369,3 +369,5 @@ details > p { margin-top: 0.4rem; }
   margin-right: .35rem;
 }
 @media (prefers-color-scheme: dark) { .newstag { color: #15120f; } }
+.newsfig { margin: .6rem 0 .2rem; max-width: 34rem; }
+.newsfig img { width: 100%; height: auto; border-radius: 6px; }

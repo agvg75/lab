@@ -1,25 +1,46 @@
 [
-  {"date": "2026-10-23", "tag": "Milestone",
-   "title": "Damiano Marchiafava passes his doctoral defense",
-   "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears."},
-
-  {"date": "2026-09-01", "tag": "Grant",
-   "title": "Third R15 awarded by NIAMS",
-   "body": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases funded a third successive R15 for the genetic repair of muscular degeneration in Duchenne muscular dystrophy, with Xiaotian Dai as co-investigator. The lab has held continuous external funding since 2015.",
-   "link": "https://reporter.nih.gov/search/HZfYaeek60OJntCs19XEkA/projects", "linkText": "NIH RePORTER"},
-
-  {"date": "2026-06-01", "tag": "Paper",
-   "title": "Mars analog paper accepted at Scientific Reports",
-   "body": "Aalimah Akinosho, with undergraduates Nora Armstrong and Zachary Benefield, reports behavioral deficits in animals raised for six generations under Mars analog gravity and hypomagnetic fields.",
-   "link": "https://doi.org/10.1101/2024.10.18.619154", "linkText": "Read the preprint"},
-
-  {"date": "2026-03-01", "tag": "Paper",
-   "title": "Muscle architecture remodels during locomotion",
-   "body": "Adina Fazyl and high school researcher Anbu Anbu, contributing equally, show activity dependent remodeling of muscle architecture during distinct locomotor behaviors. Published in Biology Open.",
-   "link": "https://doi.org/10.1242/bio.062371", "linkText": "Read the paper"},
-
-  {"date": "2025-08-01", "tag": "Paper",
-   "title": "Independent validation of transgenerational pathogen avoidance",
-   "body": "Aalimah Akinosho and Jordan Alexander independently validated the transgenerational inheritance of learned pathogen avoidance, published in eLife. Information about a threat outliving the animal that met it is one of the three kinds of disruption the lab studies.",
-   "link": "https://elifesciences.org/articles/107034", "linkText": "Read the paper"}
+  {
+    "date": "2026-10-23",
+    "tag": "Milestone",
+    "title": "Damiano Marchiafava passes his doctoral defense",
+    "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears."
+  },
+  {
+    "date": "2026-09-01",
+    "tag": "Grant",
+    "title": "Third R15 awarded by NIAMS",
+    "body": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases funded a third successive R15 for the genetic repair of muscular degeneration in Duchenne muscular dystrophy, with Xiaotian Dai as co-investigator. The lab has held continuous external funding since 2015.",
+    "link": "https://reporter.nih.gov/search/HZfYaeek60OJntCs19XEkA/projects",
+    "linkText": "NIH RePORTER"
+  },
+  {
+    "date": "2026-06-01",
+    "tag": "Paper",
+    "title": "Mars analog paper accepted at Scientific Reports",
+    "body": "Aalimah Akinosho, with undergraduates Nora Armstrong and Zachary Benefield, reports behavioral deficits in animals raised for six generations under Mars analog gravity and hypomagnetic fields.",
+    "link": "https://doi.org/10.1101/2024.10.18.619154",
+    "linkText": "Read the preprint"
+  },
+  {
+    "date": "2026-03-01",
+    "tag": "Paper",
+    "title": "Muscle architecture remodels during locomotion",
+    "body": "Adina Fazyl and high school researcher Anbu Anbu, contributing equally, show activity dependent remodeling of muscle architecture during distinct locomotor behaviors. Published in Biology Open.",
+    "link": "https://doi.org/10.1242/bio.062371",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2025-08-01",
+    "tag": "Paper",
+    "title": "Independent validation of transgenerational pathogen avoidance",
+    "body": "Aalimah Akinosho and Jordan Alexander independently validated the transgenerational inheritance of learned pathogen avoidance, published in eLife. Information about a threat outliving the animal that met it is one of the three kinds of disruption the lab studies.",
+    "link": "https://elifesciences.org/articles/107034",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2026-10-05",
+    "tag": "Talk",
+    "title": "Invited seminar at Wayne State University",
+    "body": "Andres gave the Department of Biological Sciences seminar in Detroit, titled Tracing the Origins of Dysfunction in Duchenne Muscular Dystrophy: A Multiscale Approach to Early Pathophysiology. The talk argued that the resting calcium set point is already displaced before dystrophic muscle has begun to contract, which makes the earliest pathology a problem of regulation rather than of injury. Hosted by Eleni Gourgou."
+  }
 ]

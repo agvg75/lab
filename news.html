@@ -71,6 +71,7 @@
       out+='<article class="newsitem">';
       out+='<p class="meta"><span class="newstag">'+it.tag+'</span> '+nice(it.date)+'</p>';
       out+='<h3>'+it.title+'</h3><p>'+it.body+'</p>';
+      if(it.image){ out+='<figure class="fig photo newsfig"><img src="'+it.image+'" alt="'+(it.alt||'')+'" loading="lazy"></figure>'; }
       if(it.link){ out+='<p><a href="'+it.link+'">'+(it.linkText||'Read more')+'</a></p>'; }
       out+='</article>';
     });
