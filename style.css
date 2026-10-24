@@ -189,6 +189,7 @@ a:hover { text-decoration-thickness: 2px; }
 .person img {
   width: 100%;
   max-width: 15rem;
+  height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 6px;
