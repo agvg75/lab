@@ -3,7 +3,9 @@
     "date": "2026-10-23",
     "tag": "Milestone",
     "title": "Damiano Marchiafava passes his doctoral defense",
-    "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears."
+    "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears.",
+    "image": "news-danny-defense.jpg",
+    "alt": "Danny at the lectern after his defense seminar, beside his closing slide"
   },
   {
     "date": "2026-09-01",
@@ -41,6 +43,24 @@
     "date": "2026-10-05",
     "tag": "Talk",
     "title": "Invited seminar at Wayne State University",
-    "body": "Andres gave the Department of Biological Sciences seminar in Detroit, titled Tracing the Origins of Dysfunction in Duchenne Muscular Dystrophy: A Multiscale Approach to Early Pathophysiology. The talk argued that the resting calcium set point is already displaced before dystrophic muscle has begun to contract, which makes the earliest pathology a problem of regulation rather than of injury. Hosted by Eleni Gourgou."
+    "body": "Andres gave the Department of Biological Sciences seminar in Detroit, titled Tracing the Origins of Dysfunction in Duchenne Muscular Dystrophy: A Multiscale Approach to Early Pathophysiology. The talk argued that the resting calcium set point is already displaced before dystrophic muscle has begun to contract, which makes the earliest pathology a problem of regulation rather than of injury. Hosted by Eleni Gourgou, with a day of meetings that included Joseph Roche, who works on Duchenne muscular dystrophy in the Physical Therapy Program there.",
+    "image": "news-wayne-roche.jpg",
+    "alt": "Andres with Joseph Roche at Wayne State University, the Detroit skyline behind them"
+  },
+  {
+    "date": "2026-04-15",
+    "tag": "Award",
+    "title": "Mackenzie Jones in the Image of Research exhibition",
+    "body": "Mackenzie's entry, Coloring the Secret Life of Muscles, shows calcium reporters firing along the body wall muscle of freely moving animals. The lab builds its own reporters and its own analysis, and this is what that work looks like before it becomes a figure.",
+    "image": "news-mackenzie-ior.jpg",
+    "alt": "Mackenzie Jones beside her Image of Research entry, nine worms imaged with calcium reporters on a black field"
+  },
+  {
+    "date": "2026-04-10",
+    "tag": "Poster",
+    "title": "Rene Wilderman presents at the University Research Symposium",
+    "body": "Rene asked whether the corticosteroids given to Duchenne patients help smooth muscle the way they help striated muscle, measuring egg laying rate as the readout. The preliminary answer is that they do not, and that vamorolone, despite its reputation for reduced side effects, did not restore egg laying either. With Mackenzie Jones as second author.",
+    "image": "news-rene-poster.jpg",
+    "alt": "Rene Wilderman beside her poster on corticosteroids and smooth muscle in Duchenne muscular dystrophy"
   }
 ]
