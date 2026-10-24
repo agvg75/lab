@@ -20,6 +20,7 @@
 <nav class="primary" aria-label="Primary">
   <ul>
     <li><a href="index.html" aria-current="page">Home</a></li>
+    <li><a href="news.html">News</a></li>
     <li><a href="research.html">Research</a></li>
     <li><a href="people.html">People</a></li>
     <li><a href="outreach.html">Outreach</a></li>
@@ -128,6 +129,10 @@
   we have lost touch with. Figures current as of 23 October 2026.
   <a href="alumni.html">See where people went</a>.</p>
 
+  <h2>Recently</h2>
+  <div id="homeNews"><p class="meta">Loading.</p></div>
+  <p><a href="news.html">All lab news</a></p>
+
   <h2>Science is part of the same loop</h2>
   <p>Information is only useful if it can be used to alter a process. That applies to the lab
   as much as to the animal. Generating knowledge is half the work, and integrating it into the
@@ -155,5 +160,21 @@
   </div>
 </footer>
 
+<script>
+(function(){
+  var box=document.getElementById('homeNews'); if(!box) return;
+  fetch('news.json',{cache:'no-store'}).then(function(r){return r.json();}).then(function(items){
+    items.sort(function(a,b){return a.date<b.date?1:-1;});
+    var M=['January','February','March','April','May','June','July','August','September','October','November','December'];
+    var out='';
+    items.slice(0,3).forEach(function(it){
+      var p=it.date.split('-');
+      out+='<article class="newsitem"><p class="meta"><span class="newstag">'+it.tag+'</span> '+
+           M[parseInt(p[1],10)-1]+' '+parseInt(p[2],10)+', '+p[0]+'</p><h3>'+it.title+'</h3><p>'+it.body+'</p></article>';
+    });
+    box.innerHTML=out;
+  }).catch(function(){ box.innerHTML=''; });
+})();
+</script>
 </body>
 </html>

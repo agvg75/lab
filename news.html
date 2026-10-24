@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News — Vidal-Gadea Lab</title>
+<meta name="description" content="News from the Vidal-Gadea Lab: graduations, papers, grants and lab milestones.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+
+<header class="masthead">
+  <div class="wrap">
+    <a class="wordmark" href="index.html">Vidal-Gadea <span>Lab</span></a>
+    <p class="tagline">School of Biological Sciences, Illinois State University</p>
+  </div>
+</header>
+
+<nav class="primary" aria-label="Primary">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="news.html" aria-current="page">News</a></li>
+    <li><a href="research.html">Research</a></li>
+    <li><a href="people.html">People</a></li>
+    <li><a href="outreach.html">Outreach</a></li>
+    <li><a href="publications.html">Publications</a></li>
+    <li><a href="alumni.html">Alumni and outcomes</a></li>
+    <li><a href="join.html">Join the lab</a></li>
+  </ul>
+</nav>
+
+<main id="main" class="wrap">
+
+  <h1>News</h1>
+
+  <p class="lede">Graduations, papers, grants and the things worth marking. Newest first, each
+  one dated so you can see how current this is.</p>
+
+  <div id="newsList">
+    <p class="meta">Loading.</p>
+  </div>
+
+  <p class="meta">If something is missing here that should not be, write to
+  <a href="mailto:avidal@ilstu.edu">avidal@ilstu.edu</a>.</p>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p><strong>Vidal-Gadea Lab</strong>, School of Biological Sciences, Illinois State University, Normal, Illinois</p>
+    <p>Contact: <a href="mailto:avidal@ilstu.edu">avidal@ilstu.edu</a></p>
+    <p class="sitelinks"><a href="presentations.html">Posters and presentations</a> &nbsp;&middot;&nbsp;
+    <a href="media.html">Media coverage</a> &nbsp;&middot;&nbsp;
+    <a href="resources.html">Resources</a></p>
+    <p>Any current or former lab member may ask to be listed differently here, or not at all.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var box=document.getElementById('newsList');
+  fetch('news.json',{cache:'no-store'}).then(function(r){return r.json();}).then(function(items){
+    items.sort(function(a,b){return a.date<b.date?1:-1;});
+    var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+    function nice(d){var p=d.split('-');return MONTHS[parseInt(p[1],10)-1]+' '+parseInt(p[2],10)+', '+p[0];}
+    var out='', year='';
+    items.forEach(function(it){
+      var y=it.date.slice(0,4);
+      if(y!==year){ out+='<h2>'+y+'</h2>'; year=y; }
+      out+='<article class="newsitem">';
+      out+='<p class="meta"><span class="newstag">'+it.tag+'</span> '+nice(it.date)+'</p>';
+      out+='<h3>'+it.title+'</h3><p>'+it.body+'</p>';
+      if(it.link){ out+='<p><a href="'+it.link+'">'+(it.linkText||'Read more')+'</a></p>'; }
+      out+='</article>';
+    });
+    box.innerHTML=out||'<p class="meta">Nothing recorded yet.</p>';
+  }).catch(function(){ box.innerHTML='<p class="meta">The news list could not be loaded.</p>'; });
+})();
+</script>
+</body>
+</html>

@@ -351,3 +351,21 @@ details > summary:focus-visible {
 }
 details[open] > summary { color: var(--red); }
 details > p { margin-top: 0.4rem; }
+
+/* News entries */
+.newsitem {
+  border-top: 1px solid var(--rule);
+  padding: 1.1rem 0 .2rem;
+}
+.newsitem h3 { margin: .15rem 0 .35rem; }
+.newstag {
+  display: inline-block;
+  background: var(--red);
+  color: #fff;
+  border-radius: 3px;
+  padding: .05rem .4rem;
+  font-size: .78rem;
+  letter-spacing: .02em;
+  margin-right: .35rem;
+}
+@media (prefers-color-scheme: dark) { .newstag { color: #15120f; } }
