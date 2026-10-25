@@ -57,7 +57,17 @@
     "date": "2026-04-18",
     "tag": "Meeting",
     "title": "Midwest C. elegans Meeting at the Van Andel Institute",
-    "body": "A short overnight trip to Grand Rapids for the Midwest C. elegans Meeting with Mackenzie Jones and some of the undergraduate team. Back home the same weekend, Danny and Erin represented the lab at the ISU graduate symposium and won best poster in the doctoral and undergraduate categories."
+    "body": "A short overnight trip to Grand Rapids for the Midwest C. elegans Meeting with Mackenzie Jones and three of the undergraduate team, under the glass DNA in the Van Andel Institute atrium. Back home the same weekend, Danny and Erin represented the lab at the ISU graduate symposium and won best poster in the doctoral and undergraduate categories.",
+    "image": "news-midwest-2026-group.jpg",
+    "alt": "Five lab members standing in the Van Andel Institute atrium beneath a blue glass sculpture of a DNA double helix"
+  },
+  {
+    "date": "2026-04-17",
+    "tag": "Poster",
+    "title": "Mackenzie Jones presents compartmental calcium analysis in Duchenne muscular dystrophy",
+    "body": "Using the lab's RGBCaMP strain, Mackenzie followed calcium in the sarcoplasm, mitochondria and sarcoplasmic reticulum of freely moving animals. Dystrophic worms show higher sarcoplasmic calcium and a loss of sarcoplasmic reticulum calcium cycling. Presented at the Midwest C. elegans Meeting in Grand Rapids.",
+    "image": "news-midwest-2026-poster.jpg",
+    "alt": "Mackenzie Jones explaining her poster, Dynamic compartmental calcium analysis in Duchenne muscular dystrophy, to a visitor"
   },
   {
     "date": "2026-04-15",
