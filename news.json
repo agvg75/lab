@@ -130,8 +130,10 @@
   {
     "date": "2025-12-17",
     "tag": "Award",
-    "title": "University Outstanding Researcher Award",
-    "body": "Andres received the University Outstanding Researcher Award from Illinois State in December. The award reflects the work of the students and collaborators who have carried the lab through a difficult year for research funding."
+    "title": "Outstanding University Researcher Award",
+    "body": "Andres received Illinois State's Outstanding University Researcher Award for 2025 to 2026, which recognizes faculty for excellence in research and requires a prior Outstanding College Research Award. The university's announcement followed in February. The award reflects the work of the students and collaborators who carried the lab through a difficult year for research funding.",
+    "link": "https://news.illinoisstate.edu/2026/02/research-award-winners-for-2025-2026-announced/",
+    "linkText": "Read the announcement"
   },
   {
     "date": "2025-12-02",
@@ -407,8 +409,8 @@
     "date": "2020-09-16",
     "tag": "Award",
     "title": "Researchers to Know 2020",
-    "body": "Andres was nominated by Illinois State and named among the Illinois Science and Technology Coalition's Researchers to Know for 2020. Credit goes to the people in the lab doing the work.",
-    "link": "https://www.istcoalition.org/data/2020-researchers-to-know/",
+    "body": "The Illinois Science and Technology Coalition named Andres among its 19 Researchers to Know for 2020, nominated by Illinois State. The entry cites the lab's work on how physical activity and intracellular calcium shape the progression of muscular dystrophy, the magnetic field work, and 130 students mentored since 2015. Credit goes to the people in the lab doing the work.",
+    "link": "https://www.istcoalition.org/2020-researchers-to-know/",
     "linkText": "Read more"
   },
   {
