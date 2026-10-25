@@ -8,6 +8,9 @@
     return MONTHS[parseInt(p[1],10)-1]+' '+parseInt(p[2],10)+', '+p[0];}
   function esc(s){return String(s==null?'':s)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+  function ital(s){return s
+    .replace(/\b(Caenorhabditis elegans|C\. elegans)\b/g,'<em>$1</em>')
+    .replace(/\b([a-z]{3,4}-\d+(?:\.\d+)?)\b/g,'<em>$1</em>');}
   var c=new Date(); c.setMonth(c.getMonth()-12);
   var CUT=c.toISOString().slice(0,10);
   fetch('news.json',{cache:'no-store'}).then(function(r){return r.json();}).then(function(items){
@@ -21,7 +24,7 @@
       if(y!==year){ out+='<h2>'+esc(y)+'</h2>'; year=y; }
       out+='<article class="newsitem">';
       out+='<p class="meta"><span class="newstag">'+esc(it.tag)+'</span> '+nice(it.date)+'</p>';
-      out+='<h3>'+esc(it.title)+'</h3><p>'+esc(it.body)+'</p>';
+      out+='<h3>'+ital(esc(it.title))+'</h3><p>'+ital(esc(it.body))+'</p>';
       if(it.image){ out+='<figure class="fig photo newsfig"><img src="'+esc(it.image)+
         '" alt="'+esc(it.alt)+'" loading="lazy"></figure>'; }
       if(it.link){ out+='<p><a href="'+esc(it.link)+'">'+esc(it.linkText||'Read more')+'</a></p>'; }
