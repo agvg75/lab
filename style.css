@@ -409,3 +409,10 @@ details > p { margin-top: 0.4rem; }
 }
 .jump span { color: var(--muted); }
 .jump a { white-space: nowrap; }
+
+/* Justified body text. Hyphenation keeps word spacing even; narrow screens stay
+   ragged right because justification opens rivers below about 45 characters a line. */
+@media (min-width: 40em){
+  p, li, figcaption, .lede { text-align: justify; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; }
+  .meta, .newstag, nav, .jump, .totop, h1, h2, h3, h4, .person, figcaption.small { text-align: left; }
+}
