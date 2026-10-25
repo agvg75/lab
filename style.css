@@ -371,3 +371,26 @@ details > p { margin-top: 0.4rem; }
 @media (prefers-color-scheme: dark) { .newstag { color: #15120f; } }
 .newsfig { margin: .6rem 0 .2rem; max-width: 34rem; }
 .newsfig img { width: 100%; height: auto; border-radius: 6px; }
+
+/* Back to top */
+.totop {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 50;
+  font: inherit;
+  font-size: 0.9rem;
+  line-height: 1;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--rule);
+  border-radius: 2rem;
+  background: var(--bg);
+  color: var(--ink);
+  cursor: pointer;
+  box-shadow: 0 1px 6px rgba(0,0,0,.14);
+}
+.totop:hover { background: var(--bg-soft); }
+.totop:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.totop[hidden] { display: none; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+@media print { .totop { display: none; } }
