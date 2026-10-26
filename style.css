@@ -427,3 +427,16 @@ footer .footlogo { float: right; width: 120px; height: 120px; margin: 0 0 1rem 1
 footer .wrap::after { content: ""; display: block; clear: both; }
 @media (max-width: 40em) { footer .footlogo { width: 80px; height: 80px; } }
 footer p, .skip { text-align: left; }
+
+/* ---------- PI card: portrait beside text on wide screens ---------- */
+@media (min-width: 40em) {
+  .grid.pi { grid-template-columns: minmax(0, 44rem); }
+  .grid.pi .person {
+    display: grid;
+    grid-template-columns: 12rem 1fr;
+    gap: 0 1.4rem;
+    align-items: start;
+  }
+  .grid.pi .person img { grid-row: 1 / span 2; margin-bottom: 0; max-width: 12rem; }
+  .grid.pi .person .name { margin-bottom: .3rem; }
+}
