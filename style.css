@@ -416,3 +416,14 @@ details > p { margin-top: 0.4rem; }
   p, li, figcaption, .lede { text-align: justify; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; }
   .meta, .newstag, nav, .jump, .totop, h1, h2, h3, h4, .person, figcaption.small { text-align: left; }
 }
+
+/* ---------- logo ---------- */
+.masthead .wrap { align-items: center; }
+.brand { display: inline-flex; flex-shrink: 0; line-height: 0; }
+.brand .logo { width: 56px; height: 56px; display: block; }
+.masthead .tagline { flex-basis: 100%; }
+@media (min-width: 40em) { .masthead .tagline { flex-basis: auto; margin-left: auto; } }
+footer .footlogo { float: right; width: 120px; height: 120px; margin: 0 0 1rem 1.5rem; opacity: .9; }
+footer .wrap::after { content: ""; display: block; clear: both; }
+@media (max-width: 40em) { footer .footlogo { width: 80px; height: 80px; } }
+footer p, .skip { text-align: left; }
