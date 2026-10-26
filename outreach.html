@@ -50,8 +50,8 @@
   <h1>Outreach</h1>
 
   <figure class="fig art-hero">
-    <img id="heroArt" src="art-drawing-1.jpg" alt="A drawing of the lab made by a young visitor" loading="eager">
-    <figcaption id="heroCap">&ldquo;This is my garden&rdquo;, by Ethan</figcaption>
+    <img src="art-drawing-5.jpg" width="768" height="526" alt="Child's drawing titled Ice and Worms: Dr. Andres at his microscope, with fridges of ice and worms under the bench" loading="eager">
+    <figcaption>&ldquo;Ice and Worms&rdquo;, by Tona, a young visitor to the lab</figcaption>
   </figure>
 
 
@@ -82,17 +82,27 @@
 
   <h2>What we make for people outside the lab</h2>
 
-  <h3>WormTV</h3>
-  <p>A YouTube channel of <em>Caenorhabditis elegans</em> biology, made as an open resource for
-  anyone curious about the animal. It has been watched more than 41,000 times.
-  <a href="https://www.youtube.com/@vidal-gadeac.eleganslab4632">Visit the channel</a>.</p>
-
-  <h3>A book for children</h3>
-  <p>We wrote and published a book introducing children to the worm and to the idea of looking
-  closely at living things. We give copies away at outreach events, and it is also available
-  to buy. <a href="https://a.co/d/hJCA27K">Find the book</a>.</p>
-
-
+  <div class="mediarows">
+    <a class="mediarow" href="https://www.youtube.com/@vidal-gadeac.eleganslab4632">
+      <img src="outreach-wormtv.jpg" width="420" height="420" alt="" loading="lazy">
+      <span class="mediatext"><span class="name">WormTV</span>
+      A YouTube channel of <em>Caenorhabditis elegans</em> biology, made as an open resource for
+      anyone curious about the animal. It has been watched more than 41,000 times.
+      <span class="go">Visit the channel</span></span>
+    </a>
+    <a class="mediarow" href="https://a.co/d/hJCA27K">
+      <img class="tall" src="outreach-book.jpg" width="420" height="593" alt="Cover of The Amazing World of Worms, a scientific coloring book" loading="lazy">
+      <span class="mediatext"><span class="name">The Amazing World of Worms</span>
+      A scientific coloring book introducing children to the worm and to the idea of looking
+      closely at living things. We give copies away at outreach events, and it is also available
+      to buy. <span class="go">Find the book</span></span>
+    </a>
+    <a class="mediarow" href="media.html">
+      <span class="mediatext"><span class="name">Press and media</span>
+      The lab's work has been covered by NPR, NBC News, Scientific American, The Scientist and
+      outlets in several countries. <span class="go">The full list</span></span>
+    </a>
+  </div>
 
   <h2>The visitor art gallery</h2>
   <p>Children who visit the lab draw what they saw, and they give us the drawings. A drawing
@@ -177,10 +187,6 @@
   group, roughly how many, and how long we have. We will tell you honestly whether what we do
   will work for them.</p>
 
-  <h2>Press and media</h2>
-  <p>The lab's work has been covered by NPR, NBC News, Scientific American, The Scientist and
-  outlets in several countries. <a href="media.html">The full list is here</a>.</p>
-
 </main>
 
 <footer>
@@ -193,21 +199,6 @@
 </footer>
 
 
-<script>
-(function () {
-  var art = [{"title": "This is my garden", "artist": "Ethan", "file": "drawing-1.jpg"}, {"title": "Get some out", "artist": "Jackson", "file": "drawing-2.jpg"}, {"title": "Worm Lab", "artist": "Nora", "file": "drawing-3.jpg"}, {"title": "Microscope in the middle", "artist": "Lewis", "file": "drawing-4.jpg"}, {"title": "Ice and Worms", "artist": "Tona", "file": "drawing-5.jpg"}, {"title": "One bad guy worm", "artist": "Nolan", "file": "drawing-6.jpg"}, {"title": "A little kid worm", "artist": "Nolan", "file": "drawing-7.jpg"}, {"title": "Untitled", "artist": "", "file": "drawing-8.jpg"}, {"title": "Hold the food", "artist": "", "file": "drawing-9.jpg"}];
-  try {
-    var i = Math.floor(Math.random() * art.length);
-    var a = art[i];
-    var img = document.getElementById('heroArt');
-    var cap = document.getElementById('heroCap');
-    if (!img || !cap) return;
-    img.src = 'art-' + a.file;
-    img.alt = "Child's drawing titled " + a.title;
-    cap.innerHTML = '\u201c' + a.title + '\u201d' + (a.artist ? ', by ' + a.artist : '');
-  } catch (e) { /* the page is fine without this */ }
-})();
-</script>
 <script src="ui.js"></script>
 <script data-goatcounter="https://vidalgadea.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
