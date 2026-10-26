@@ -19,8 +19,8 @@
   var ticking=false;
   function update(){
     var y=window.pageYOffset||document.documentElement.scrollTop||0;
-    var tall=(document.documentElement.scrollHeight-window.innerHeight)>900;
-    btn.hidden=!(tall && y>600);
+    var tall=(document.documentElement.scrollHeight-window.innerHeight)>300;
+    btn.hidden=!(tall && y>400);
     ticking=false;
   }
   window.addEventListener('scroll',function(){
