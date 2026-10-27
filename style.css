@@ -458,3 +458,5 @@ footer p, .skip { text-align: left; }
 .mediarow img.tall { height: auto; aspect-ratio: 420 / 593; }
 
 .award { color: var(--red-bright); font-weight: 700; }
+
+.fig.photo video.figvideo { display:block; width:100%; max-width:48rem; height:auto; margin:0 auto; border-radius:6px; background:#000; }
