@@ -460,3 +460,8 @@ footer p, .skip { text-align: left; }
 .award { color: var(--red-bright); font-weight: 700; }
 
 .fig.photo video.figvideo { display:block; width:100%; max-width:48rem; height:auto; margin:0 auto; border-radius:6px; background:#000; }
+.vidpair { display:grid; grid-template-columns:1fr 1fr; gap:.6rem; max-width:60rem; margin:0 auto; }
+.vidpair > div { position:relative; }
+.vidpair video.figvideo { max-width:none; }
+.vidlabel { position:absolute; top:.5rem; left:.6rem; background:rgba(0,0,0,.6); color:#fff; font-size:.85rem; padding:.15rem .5rem; border-radius:4px; }
+@media (max-width: 40em) { .vidpair { grid-template-columns:1fr; } }
