@@ -1,776 +1,784 @@
 [
- {
-  "date": "2026-10-24",
-  "tag": "Lab life",
-  "title": "A first PCR over Homecoming weekend",
-  "body": "Simon ran his first polymerase chain reaction this weekend. He loaded the reactions, then set the protocol on the thermocycler himself. Homecoming brings families through the building, and the lab is open when it can be. Children should see that science is a thing people do, and that the people doing it are reachable.",
-  "image": "news-simon-pcr.jpg",
-  "alt": "A young boy in a lab coat and goggles setting a protocol on the thermocycler touchscreen"
- },
- {
-  "date": "2026-10-23",
-  "tag": "Paper",
-  "title": "Mars analog paper accepted at Scientific Reports",
-  "body": "Aalimah Akinosho, with undergraduates Nora Armstrong and Zachary Benefield, reports behavioral deficits in animals raised for six generations under Mars analog gravity and hypomagnetic fields. The paper was accepted on 23 October 2026.",
-  "link": "https://doi.org/10.1101/2024.10.18.619154",
-  "linkText": "Read the preprint"
- },
- {
-  "date": "2026-10-16",
-  "tag": "Talk",
-  "title": "Mackenzie Jones gives the Physiology, Neuroscience and Behavior seminar",
-  "body": "Intracellular calcium kinetics in the musculature of freely moving animals: Mackenzie presented the lab's three-compartment calcium imaging in dystrophic and wild type worms to the PNB seminar series, the first student talk from the lab in the series this year."
- },
- {
-  "date": "2026-10-07",
-  "tag": "Milestone",
-  "title": "Damiano Marchiafava passes his doctoral defense",
-  "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears.",
-  "image": "news-danny-defense.jpg",
-  "alt": "Danny at the lectern after his defense seminar, beside his closing slide"
- },
- {
-  "date": "2026-10-05",
-  "tag": "Talk",
-  "title": "Invited seminar at Wayne State University",
-  "body": "Andres gave the Department of Biological Sciences seminar in Detroit, titled Tracing the Origins of Dysfunction in Duchenne Muscular Dystrophy: A Multiscale Approach to Early Pathophysiology. The talk argued that the resting calcium set point is already displaced before dystrophic muscle has begun to contract, which makes the earliest pathology a problem of regulation rather than of injury. Hosted by Eleni Gourgou, with a day of meetings that included Joseph Roche, who works on Duchenne muscular dystrophy in the Physical Therapy Program there.",
-  "image": "news-wayne-roche.jpg",
-  "alt": "Andres with Joseph Roche at Wayne State University, the Detroit skyline behind them"
- },
- {
-  "date": "2026-09-02",
-  "tag": "Talk",
-  "title": "Naga Nidadavolu opens the fall Molecular and Cellular Biology seminar series",
-  "body": "Characterization of smooth muscle pathophysiology in Duchenne muscular dystrophy: Naga gave the first MCB seminar of the semester, laying out the lab's smooth muscle program in worms and human cells, and defended her thesis proposal the same week."
- },
- {
-  "date": "2026-09-01",
-  "tag": "Grant",
-  "title": "Third R15 awarded by NIAMS",
-  "body": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases funded a third successive R15 for the genetic repair of muscular degeneration in Duchenne muscular dystrophy, with Xiaotian Dai as co-investigator. The lab has held continuous external funding since 2015.",
-  "link": "https://reporter.nih.gov/search/HZfYaeek60OJntCs19XEkA/projects",
-  "linkText": "NIH RePORTER"
- },
- {
-  "date": "2026-07-30",
-  "tag": "Poster",
-  "title": "Marcos Perez-Rodriguez at the Summer of Inquiry Symposium",
-  "body": "Marcos presented Characterizing dystrophic C. elegans strains to study the pathogenesis of Duchenne muscular dystrophy at ISU's second Summer of Inquiry Symposium, comparing burrowing and swimming proficiency and muscle integrity across the lab's dystrophic strains, with Mackenzie, Naga and Danny as co-authors."
- },
- {
-  "date": "2026-06-03",
-  "tag": "Lab life",
-  "title": "The Big Run on Global Running Day",
-  "body": "Mackenzie Jones and Andres ran Fleet Feet's Big Run 5K at Tipton Park on Global Running Day, an out and back on the Constitution Trail. Mackenzie is a marathoner as well as a master's student. The lab recommends taking the muscle out for a run now and then.",
-  "image": "news-bigrun.jpg",
-  "alt": "Mackenzie Jones and Andres after the Big Run 5K at Tipton Park"
- },
- {
-  "date": "2026-05-18",
-  "tag": "Outreach",
-  "title": "Science on Tap: How animals read the Earth's magnetic field",
-  "body": "A public talk for Science on Tap, given in a local pub on a Monday evening. The audience was handed paper arrows and asked to point them at their favorite holiday destination without any aids, which is the problem a migrating animal solves every year. From there: robins, spiny lobsters, hammerhead sharks and a one millimeter worm, each borrowing a different sense to read one field. Taking the work to a room where people already are is most of the point.",
-  "image": "news-science-on-tap-2026.jpg",
-  "alt": "Title slide for the Science on Tap talk, How animals read the Earth's magnetic field, with the Science on Tap Blo-No logo"
- },
- {
-  "date": "2026-04-18",
-  "tag": "Meeting",
-  "title": "Midwest C. elegans Meeting at the Van Andel Institute",
-  "body": "A short overnight trip to Grand Rapids for the Midwest C. elegans Meeting with Mackenzie Jones and three of the undergraduate team, under the glass DNA in the Van Andel Institute atrium. Back home the same weekend, Danny and Erin represented the lab at the Phi Sigma Research Symposium and won best poster in the graduate and undergraduate categories.",
-  "image": "news-midwest-2026-group.jpg",
-  "alt": "Five lab members standing in the Van Andel Institute atrium beneath a blue glass sculpture of a DNA double helix"
- },
- {
-  "date": "2026-04-17",
-  "tag": "Poster",
-  "title": "Mackenzie Jones presents compartmental calcium analysis in Duchenne muscular dystrophy",
-  "body": "Using the lab's RGBCaMP strain, Mackenzie followed calcium in the sarcoplasm, mitochondria and sarcoplasmic reticulum of freely moving animals. Dystrophic worms show higher sarcoplasmic calcium and a loss of sarcoplasmic reticulum calcium cycling. Presented at the Midwest C. elegans Meeting in Grand Rapids.",
-  "image": "news-midwest-2026-poster.jpg",
-  "alt": "Mackenzie Jones explaining her poster, Dynamic compartmental calcium analysis in Duchenne muscular dystrophy, to a visitor"
- },
- {
-  "date": "2026-04-17",
-  "tag": "Award",
-  "title": "Phi Sigma Symposium: four posters, two best-poster awards, three inductions",
-  "body": "Danny, Mackenzie, Erin and Avinaash presented at the 26th Phi Sigma Research Symposium. Danny's poster on early dystrophic calcium elevation, from C. elegans embryos to human myoblasts, took best graduate poster, and Erin's on smooth muscle in Duchenne muscular dystrophy took best undergraduate poster. Erin Cheeseman, Elyssa Guleng and Nora Armstrong were inducted into the Beta Lambda chapter of Phi Sigma, the biological sciences honor society."
- },
- {
-  "date": "2026-04-15",
-  "tag": "Award",
-  "title": "Mackenzie Jones in the Image of Research exhibition",
-  "body": "Mackenzie's entry, Coloring the Secret Life of Muscles, shows calcium reporters firing along the body wall muscle of freely moving animals. The lab builds its own reporters and its own analysis, and this is what that work looks like before it becomes a figure.",
-  "image": "news-mackenzie-ior.jpg",
-  "alt": "Mackenzie Jones beside her Image of Research entry, nine worms imaged with calcium reporters on a black field"
- },
- {
-  "date": "2026-04-10",
-  "tag": "Poster",
-  "title": "Rene Wilderman presents at the University Research Symposium",
-  "body": "Rene asked whether the corticosteroids given to Duchenne patients help smooth muscle the way they help striated muscle, measuring egg laying rate as the readout. The preliminary answer is that they do not, and that vamorolone, despite its reputation for reduced side effects, did not restore egg laying either. With Mackenzie Jones as second author.",
-  "image": "news-rene-poster.jpg",
-  "alt": "Rene Wilderman beside her poster on corticosteroids and smooth muscle in Duchenne muscular dystrophy"
- },
- {
-  "date": "2026-04-04",
-  "tag": "Lab life",
-  "title": "About half the crew in at once",
-  "body": "About half of the current crew happened to be in the lab at the same time. That is rare enough to be worth a photograph.",
-  "image": "lab-group-6a.jpg",
-  "alt": "Six lab members standing together in the laboratory"
- },
- {
-  "date": "2026-02-05",
-  "tag": "Talk",
-  "title": "Neuroscience and Physiology seminar at Illinois State",
-  "body": "Tracing the origins of dysfunction in Duchenne muscular dystrophy, a multiscale approach to early pathophysiology. Science Laboratory Building 121, Thursday at noon.",
-  "image": "doc-sbs-seminar-feb2026.jpg",
-  "alt": "Seminar announcement for the Neuroscience and Physiology Seminar Series"
- },
- {
-  "date": "2025-12-24",
-  "tag": "Paper",
-  "title": "Muscle architecture remodels during locomotion",
-  "body": "Adina Fazyl and high school researcher Anbu Anbu, contributing equally, show activity dependent remodeling of muscle architecture during distinct locomotor behaviors. Accepted 16 December and live in Biology Open on 24 December, the third paper from Adina's thesis.",
-  "link": "https://doi.org/10.1242/bio.062371",
-  "linkText": "Read the paper"
- },
- {
-  "date": "2025-12-19",
-  "tag": "Alumni",
-  "title": "Lucas Barickman visits, eleven years on",
-  "body": "Lucas worked in the lab as an undergraduate in 2015. He came back over Christmas break, now a surgeon in Switzerland, and could still pick worms with the best of them. He took the same seat at the scope and gave the camera the same look. Undergraduate research is a long game.",
-  "image": "news-lucas-thenandnow.jpg",
-  "alt": "Lucas Barickman at the bench in 2015 and back at the microscope in 2026, same pose in both"
- },
- {
-  "date": "2025-12-18",
-  "tag": "Award",
-  "title": "Adina Fazyl's image on the cover of Biophysical Journal",
-  "body": "Adina's confocal image of body wall muscle was chosen for the cover of the December issue of Biophysical Journal. The same image won her an Image of Research award at Illinois State earlier in the year.",
-  "image": "news-2025-bj-cover.jpg",
-  "alt": "Cover of Biophysical Journal showing a confocal image of C. elegans body wall muscle in yellow and magenta",
-  "link": "https://www.cell.com/issue/S0006-3495(24)X0025-9",
-  "linkText": "See the issue"
- },
- {
-  "date": "2025-12-17",
-  "tag": "Award",
-  "title": "Outstanding University Researcher Award",
-  "body": "Andres received Illinois State's Outstanding University Researcher Award for 2025 to 2026, which recognizes faculty for excellence in research and requires a prior Outstanding College Research Award. The university's announcement followed in February. The award reflects the work of the students and collaborators who carried the lab through a difficult year for research funding.",
-  "link": "https://news.illinoisstate.edu/2026/02/research-award-winners-for-2025-2026-announced/",
-  "linkText": "Read the announcement"
- },
- {
-  "date": "2025-12-02",
-  "tag": "Award",
-  "title": "Adina Fazyl wins the Fisher Thesis Award",
-  "body": "Adina's master's thesis won the College of Arts and Sciences Fisher Thesis Award. Three manuscripts from the thesis are published, with more in preparation."
- },
- {
-  "date": "2025-10-25",
-  "tag": "Outreach",
-  "title": "The Amazing World of Worms coloring book",
-  "body": "A scientific coloring book for young readers, written and drawn by the lab to share what it finds interesting about a tiny nematode. Available on Amazon.",
-  "image": "news-2025-coloring-book.jpg",
-  "alt": "Cover of The Amazing World of Worms scientific coloring book",
-  "link": "https://a.co/d/fCWEiuQ",
-  "linkText": "Find it on Amazon"
- },
- {
-  "date": "2025-08-16",
-  "tag": "Milestone",
-  "title": "Promotion to Professor",
-  "body": "Andres was promoted to Professor in August 2025, ten years and eight months after the lab opened its doors."
- },
- {
-  "date": "2025-08-01",
-  "tag": "Paper",
-  "title": "Independent validation of transgenerational pathogen avoidance",
-  "body": "Aalimah Akinosho and Jordan Alexander independently validated the transgenerational inheritance of learned pathogen avoidance, published in eLife. Information about a threat outliving the animal that met it is one of the three kinds of disruption the lab studies.",
-  "link": "https://elifesciences.org/articles/107034",
-  "linkText": "Read the paper"
- },
- {
-  "date": "2025-06-28",
-  "tag": "Meeting",
-  "title": "International C. elegans Meeting at UC Davis",
-  "body": "The first in-person worm meeting for the lab since before the pandemic. The community gathered to celebrate Victor Ambros and Gary Ruvkun, winners of the 2024 Nobel Prize in Physiology or Medicine, and Andres roomed with Jon Pierce, his postdoctoral mentor and the person who first put a worm under his microscope.",
-  "image": "news-2025-worm-meeting.jpg",
-  "alt": "A crowded lecture hall at the International C. elegans Meeting"
- },
- {
-  "date": "2025-05-09",
-  "tag": "Milestone",
-  "title": "Shifat Niha and Aalimah Akinosho earn their master's degrees",
-  "body": "Two graduations on one evening. Shifat worked on dystrophin isoforms in the nervous system; Aalimah on transgenerational pathogen avoidance and on life under Mars analog conditions.",
-  "image": "news-2025-ms-graduation.jpg",
-  "alt": "Two graduates in regalia holding their diploma cases at the evening commencement"
- },
- {
-  "date": "2025-01-16",
-  "tag": "Paper",
-  "title": "Stretch receptors in muscle, published in Biophysical Journal",
-  "body": "Adina Fazyl's paper on the mechanosensitive channel PEZO-1 in body wall muscle. Muscles express a dozen kinds of mechanical channel, and much of what they do is unresolved. Here, one of them widens the behavioral repertoire without asking the nervous system to compute anything. Accepted on the lab's tenth anniversary, 30 December 2024.",
-  "image": "news-2025-pezo-muscle.jpg",
-  "alt": "Confocal image of body wall muscle fibers in yellow with magenta nuclei",
-  "link": "https://doi.org/10.1101/2024.08.13.607367",
-  "linkText": "Read the preprint"
- },
- {
-  "date": "2024-12-30",
-  "tag": "Milestone",
-  "title": "Ten years of the Worm Lab at Illinois State",
-  "body": "Ten years to the day after Andres arrived at ISU to find two new graduate students and a room full of boxes. The best part of the day is still hearing laughter from the lab all the way down the hall."
- },
- {
-  "date": "2024-11-07",
-  "tag": "Milestone",
-  "title": "Adina Fazyl defends her master's thesis",
-  "body": "Two years flat, with one paper published, two under review and a fourth nearing completion. Here she is taking a break to collect an award for her confocal work.",
-  "image": "news-2024-adina-defense.jpg",
-  "alt": "Adina Fazyl beside her award winning confocal image on an easel"
- },
- {
-  "date": "2024-06-28",
-  "tag": "Visit",
-  "title": "Jon Pierce and Koutarou Kimura visit the lab",
-  "body": "Jon Pierce from UT Austin and Koutarou Kimura from Nagoya University spent a day in the lab on their way to the C. elegans Neuro Meeting in Madison.",
-  "image": "news-2024-pierce-kimura.jpg",
-  "alt": "Jon Pierce and Koutarou Kimura with lab members at the bench"
- },
- {
-  "date": "2024-06-27",
-  "tag": "Meeting",
-  "title": "Aalimah Akinosho at the C. elegans Neuro Meeting in Madison",
-  "body": "Aalimah presented the lab's work on transgenerational pathogen avoidance.",
-  "image": "news-2024-madison.jpg",
-  "alt": "Aalimah Akinosho and Andres outside the meeting venue in Madison"
- },
- {
-  "date": "2024-04-13",
-  "tag": "Poster",
-  "title": "Two symposia and an eclipse",
-  "body": "The Biology Graduate Student Symposium, the total solar eclipse, then the University Research Symposium, all inside two weeks. The students did well at both.",
-  "image": "news-2024-symposia.jpg",
-  "alt": "Adina Fazyl beside her poster at the University Research Symposium"
- },
- {
-  "date": "2024-02-08",
-  "tag": "Award",
-  "title": "Adina Fazyl places second in the Image of Research competition",
-  "body": "Adina was a finalist in the Illinois State Image of Research competition and took second place in the graduate category.",
-  "image": "news-2024-ior-adina.jpg",
-  "alt": "Adina Fazyl beside her Image of Research entry on an easel"
- },
- {
-  "date": "2023-12-19",
-  "tag": "Instrument",
-  "title": "The WormZapper arrives",
-  "body": "Two years in the making. The instrument delivers a 1 tesla magnetic pulse in 5 milliseconds, enough to demagnetize any magnetic particle inside an animal. It is used to test magnetic orientation.",
-  "image": "news-2023-wormzapper.jpg",
-  "alt": "The WormZapper pulse magnetizer on a bench beside an oscilloscope"
- },
- {
-  "date": "2023-12-19",
-  "tag": "Paper",
-  "title": "A first paper for a high school intern",
-  "body": "High school intern Adithya and graduate student Adina Fazyl published their first scientific paper, on the stretch receptor pezo-1, in microPublication Biology.",
-  "link": "https://micropublication.org/journals/biology/micropub-biology-001085",
-  "linkText": "Read the paper"
- },
- {
-  "date": "2023-11-17",
-  "tag": "Meeting",
-  "title": "Society for Neuroscience in Washington, DC",
-  "body": "Catching up with scientists from every stage of a career, going back to an undergraduate year in Dorothy Paul's lab at the University of Victoria.",
-  "image": "news-2023-sfn.jpg",
-  "alt": "The poster hall at the Society for Neuroscience meeting"
- },
- {
-  "date": "2023-09-21",
-  "tag": "Alumni",
-  "title": "Celia Beron publishes in Nature",
-  "body": "Celia was an undergraduate in Jon Pierce's lab at UT Austin when she did the lab's first Duchenne work, and she came to ISU to present it at the Phi Sigma Symposium in 2015. She went on to a PhD in neuroscience at Harvard and has now published in Nature.",
-  "image": "news-2023-celia.jpg",
-  "alt": "Celia Beron presenting a poster at the Phi Sigma Symposium in 2015",
-  "link": "https://www.nature.com/articles/s41586-023-06492-9",
-  "linkText": "Read the paper"
- },
- {
-  "date": "2023-07-22",
-  "tag": "Instrument",
-  "title": "Wormbot 3 replaces Wormbot 1",
-  "body": "A new automated imaging robot for behavioral assays, replacing the original built in the lab's first years.",
-  "image": "news-2023-wormbot.jpg",
-  "alt": "The Wormbot 3 imaging robot on a bench"
- },
- {
-  "date": "2023-04-25",
-  "tag": "Lab life",
-  "title": "A thermal camera for temperature controlled experiments",
-  "body": "The camera is for the environmental chamber. The first afternoon was spent on other subjects.",
-  "image": "news-2023-thermal.jpg",
-  "alt": "Thermal camera image of two people in the lab, glowing orange against purple"
- },
- {
-  "date": "2023-04-22",
-  "tag": "Meeting",
-  "title": "Midwest C. elegans Meeting in Detroit",
-  "body": "The lab presented at the regional worm meeting at Wayne State University.",
-  "image": "news-2023-midwest.jpg",
-  "alt": "Lab members presenting posters at the Midwest C. elegans Meeting"
- },
- {
-  "date": "2023-03-24",
-  "tag": "Poster",
-  "title": "Biology Graduate Student Symposium",
-  "body": "The lab made a good showing at the annual symposium.",
-  "image": "news-2023-bio-symposium.jpg",
-  "alt": "Students presenting posters in a hotel corridor at the Biology Graduate Student Symposium"
- },
- {
-  "date": "2023-03-16",
-  "tag": "Meeting",
-  "title": "Advances in Skeletal Muscle Biology, Gainesville",
-  "body": "Adina Fazyl presented first, with Andres the following day, at the skeletal muscle conference at the University of Florida.",
-  "image": "news-2023-gainesville.jpg",
-  "alt": "Adina Fazyl beside her poster at the skeletal muscle conference"
- },
- {
-  "date": "2023-03-12",
-  "tag": "Outreach",
-  "title": "DNA isolation with the Girl Scouts",
-  "body": "Materials ready for an afternoon extracting DNA with a Girl Scout troop. Sports drink, dish soap and a lot of enthusiasm.",
-  "image": "news-2023-girl-scouts.jpg",
-  "alt": "Bottles of sports drink and household supplies laid out for a DNA extraction activity"
- },
- {
-  "date": "2023-02-10",
-  "tag": "Talk",
-  "title": "Pathway in Research, a talk for SACNAS",
-  "body": "An evening talk for the Illinois State chapter of SACNAS on how a research career takes shape.",
-  "image": "news-2023-sacnas-talk.jpg",
-  "alt": "SACNAS flyer for the faculty talk Pathway in Research"
- },
- {
-  "date": "2022-12-04",
-  "tag": "Visit",
-  "title": "Jessica Deichmann of the Smithsonian visits",
-  "body": "Jessica Deichmann visited the lab and gave the department a talk on conservation work around the world.",
-  "image": "news-2022-deichmann.jpg",
-  "alt": "Jessica Deichmann looking into a microscope in the lab"
- },
- {
-  "date": "2022-11-11",
-  "tag": "Award",
-  "title": "Erinda Aidoo's fifth and sixth awards",
-  "body": "Erinda became the inaugural recipient of the Peggy Redshaw and Jerry Lincecum Scholarship in the Biological Sciences, then a week later the Gletten Scholarship. Pictured at SACNAS in Puerto Rico, presenting research from her summer at Yale School of Medicine.",
-  "image": "news-2022-erinda-sacnas.jpg",
-  "alt": "Erinda Aidoo beside her poster at the SACNAS meeting"
- },
- {
-  "date": "2022-11-01",
-  "tag": "Lab life",
-  "title": "Halloween",
-  "body": "Undergraduates Erin, Teagan and Annemarie handed out candy to more than six hundred children at the lab's annual Halloween gathering.",
-  "image": "news-2022-halloween.jpg",
-  "alt": "A porch decorated for Halloween at dusk with trick or treaters"
- },
- {
-  "date": "2022-09-28",
-  "tag": "Grant",
-  "title": "Erinda Aidoo wins a BirdFEEDER grant",
-  "body": "The grant from Illinois State pays for her reagents. She also made the lab a painting.",
-  "image": "news-2022-erinda-art.jpg",
-  "alt": "A painting of a worm in gold leaf on a white canvas"
- },
- {
-  "date": "2022-09-23",
-  "tag": "Grant",
-  "title": "NIH R15 renewed for three more years",
-  "body": "The R15 award for the lab's Duchenne muscular dystrophy work was renewed. Thanks are due to the high school, undergraduate and graduate students and collaborators who made the case."
- },
- {
-  "date": "2022-05-06",
-  "tag": "Milestone",
-  "title": "Kiley Hughes graduates with her PhD",
-  "body": "Kiley joined the lab in 2017 and is now Dr. Hughes.",
-  "image": "news-2022-kiley-phd.jpg",
-  "alt": "Kiley Hughes in doctoral regalia with Andres at commencement"
- },
- {
-  "date": "2022-02-28",
-  "tag": "Award",
-  "title": "Erinda Aidoo takes first prize at Phi Sigma",
-  "body": "First prize for her poster at the Phi Sigma Symposium on Friday, then a summer internship at UChicago Medicine on Monday.",
-  "image": "news-2022-erinda-phisigma.jpg",
-  "alt": "Erinda Aidoo presenting her poster at the Phi Sigma Symposium"
- },
- {
-  "date": "2021-09-17",
-  "tag": "Outreach",
-  "title": "Lab visitors art gallery",
-  "body": "The lab hosted, and then visited, the Illinois State University Child Care Center. The artists, aged four and five, drew what they saw, and their explanations are among the lab's most prized reviews.",
-  "image": "news-2021-childcare-art.jpg",
-  "alt": "A child's drawing of a scientist at a microscope beside plates of worms"
- },
- {
-  "date": "2021-07-22",
-  "tag": "Milestone",
-  "title": "First human muscle cells in culture",
-  "body": "Jessica Adams established the lab's first immortalized human myocyte culture, the first step toward a human in vitro system alongside the nematode for studying Duchenne muscular dystrophy.",
-  "image": "news-2021-myocytes.jpg",
-  "alt": "Immunofluorescence panels of cultured human myocytes stained for nuclei, myosin and actin"
- },
- {
-  "date": "2020-10-12",
-  "tag": "Image",
-  "title": "A worm with every neuron in a different color",
-  "body": "NeuroPAL, engineered by Oliver Hobert's lab, gives each of the 302 neurons its own color combination. Imaged by Kiley Hughes on the core facility's Leica SP8.",
-  "image": "news-2020-neuropal.jpg",
-  "alt": "Confocal image of a whole worm with multicolored neurons"
- },
- {
-  "date": "2020-09-16",
-  "tag": "Award",
-  "title": "Researchers to Know 2020",
-  "body": "The Illinois Science and Technology Coalition named Andres among its 19 Researchers to Know for 2020, nominated by Illinois State. The entry cites the lab's work on how physical activity and intracellular calcium shape the progression of muscular dystrophy, the magnetic field work, and 130 students mentored since 2015. Credit goes to the people in the lab doing the work.",
-  "link": "https://www.istcoalition.org/2020-researchers-to-know/",
-  "linkText": "Read more"
- },
- {
-  "date": "2020-09-15",
-  "tag": "Outreach",
-  "title": "STEAM Talk podcast, episode one",
-  "body": "The first episode of the STEAM Talk podcast features Andres on worms, muscular dystrophy and a couple of questionable worm jokes.",
-  "link": "https://podcasts.apple.com/us/podcast/steam-talk/id1531801472",
-  "linkText": "Listen"
- },
- {
-  "date": "2020-09-12",
-  "tag": "Lab life",
-  "title": "The first five years in pictures",
-  "body": "An album assembled during the pandemic, from the 2014 job talk flyer to Anjelica Rodriguez becoming the lab's first graduate.",
-  "image": "news-2020-lab-sign.jpg",
-  "alt": "A hand painted Worm Lab sign above the lab door"
- },
- {
-  "date": "2018-02-27",
-  "tag": "Poster",
-  "title": "LSAMP Symposium in Chicago",
-  "body": "Janelle Jackson placed third for the second year running at the Louis Stokes Alliances for Minority Participation Symposium, competing with more than a hundred students from across Illinois. Natalie Burrell also presented. The same week Neha Gutta was admitted to the ResearchStart summer program for high school students.",
-  "image": "news-2018-lsamp.jpg",
-  "alt": "Four lab students in business dress at the LSAMP Symposium"
- },
- {
-  "date": "2017-11-16",
-  "tag": "Poster",
-  "title": "Second annual BSSA symposium",
-  "body": "The Biological Sciences Student Association's undergraduate symposium, in its second year.",
-  "image": "news-2017-bssa.jpg",
-  "alt": "An undergraduate presenting her poster at the BSSA symposium"
- },
- {
-  "date": "2017-06-20",
-  "tag": "Instrument",
-  "title": "A confocal microscope of our own",
-  "body": "The lab became part owner of a confocal microscope.",
-  "image": "news-2017-confocal.jpg",
-  "alt": "A confocal microscope and workstation in a darkened room"
- },
- {
-  "date": "2017-05-12",
-  "tag": "Lab life",
-  "title": "End of semester with the graduating undergraduates",
-  "body": "The Phi Sigma banquet, a last lab day for many of the crew, and commencement.",
-  "image": "news-2017-graduating.jpg",
-  "alt": "The lab crew gathered in the laboratory at the end of the semester"
- },
- {
-  "date": "2017-05-01",
-  "tag": "Award",
-  "title": "Weigel Awards for Abbi Benson and Casey Gährs",
-  "body": "Each received a Weigel Award from the School of Biological Sciences, Casey's third award in as many weeks.",
-  "image": "news-2017-weigel.jpg",
-  "alt": "Casey and Abbi at a poster, labeled with red arrows"
- },
- {
-  "date": "2017-04-22",
-  "tag": "Meeting",
-  "title": "Midwest C. elegans Meeting in Grand Rapids",
-  "body": "The students made the lab proud at the regional meeting in Michigan.",
-  "image": "news-2017-midwest.jpg",
-  "alt": "Lab students at the Midwest C. elegans Meeting"
- },
- {
-  "date": "2017-03-24",
-  "tag": "Award",
-  "title": "Phi Sigma Symposium 2017",
-  "body": "Anjelica Rodriguez won her second consecutive poster award, and Zach and Jocelyn were recognized for presenting the villi paper.",
-  "image": "news-2017-phisigma.jpg",
-  "alt": "A student pointing at her poster at the Phi Sigma Symposium"
- },
- {
-  "date": "2017-03-21",
-  "tag": "Visit",
-  "title": "Visitors from Hendrix College",
-  "body": "Brenda Houck and Ploy Freebairn came from Hendrix College in Arkansas to learn worm maintenance and techniques as Brenda set up her own lab. Kiley Hughes, the lab's newest graduate student, visited from Washington the same week.",
-  "image": "news-2017-hendrix.jpg",
-  "alt": "Brenda Houck and Ploy Freebairn in the lab"
- },
- {
-  "date": "2017-03-21",
-  "tag": "Award",
-  "title": "Janelle Jackson wins third prize at LSAMP",
-  "body": "Janelle presented at the LSAMP Symposium and took third prize for her poster.",
-  "image": "news-2017-janelle.jpg",
-  "alt": "Janelle Jackson holding her award plaque between two LSAMP organizers"
- },
- {
-  "date": "2017-02-26",
-  "tag": "Meeting",
-  "title": "First Latin American C. elegans Meeting",
-  "body": "The first meeting of C. elegans researchers from across Latin America was a great success.",
-  "image": "news-2017-latam.jpg",
-  "alt": "Group photo of attendees at the first Latin American C. elegans Meeting"
- },
- {
-  "date": "2016-11-10",
-  "tag": "Poster",
-  "title": "First undergraduate research symposium of the SBS Student Association",
-  "body": "The student association's first undergraduate symposium, with the lab well represented.",
-  "image": "news-2016-sbssa.jpg",
-  "alt": "A student presenting her poster at the undergraduate research symposium"
- },
- {
-  "date": "2016-09-12",
-  "tag": "Lab life",
-  "title": "A new generation of undergraduate researchers",
-  "body": "Andrew teaching the finer points of burrowing nematodes to the fall cohort.",
-  "image": "news-2016-andrew-burrowing.jpg",
-  "alt": "Andrew at the bench with new undergraduate researchers gathered around"
- },
- {
-  "date": "2016-07-15",
-  "tag": "Outreach",
-  "title": "Summer Research Academy for high school students",
-  "body": "Fourteen high school students spent a week in the lab learning what research is. The lab crew ran a C. elegans bootcamp from eight in the morning and were still finishing the students' immunohistochemistry at eleven at night. Anjelica Rodriguez did much of the organizing.",
-  "image": "news-2016-summer-academy.jpg",
-  "alt": "High school students at benches during the Summer Research Academy"
- },
- {
-  "date": "2016-07-09",
-  "tag": "Lab life",
-  "title": "The lab extension is ready",
-  "body": "A second room, geared up for fourteen high school students in July and as many undergraduate researchers in the fall.",
-  "image": "news-2016-extension.jpg",
-  "alt": "The newly fitted lab extension with empty benches and a window"
- },
- {
-  "date": "2016-05-06",
-  "tag": "Milestone",
-  "title": "Commencement 2016",
-  "body": "The lab celebrated its graduating students.",
-  "image": "news-2016-commencement.jpg",
-  "alt": "Faculty in regalia at the 2016 commencement ceremony"
- },
- {
-  "date": "2016-04-08",
-  "tag": "Meeting",
-  "title": "Animal Behavior Conference 2016",
-  "body": "The lab presented at the Animal Behavior Conference at Indiana University, the week after the ISU Graduate Student Symposium.",
-  "image": "news-2016-abc.jpg",
-  "alt": "Students presenting posters at the Animal Behavior Conference"
- },
- {
-  "date": "2016-03-17",
-  "tag": "Press",
-  "title": "Undergraduates learn the utility of C. elegans",
-  "body": "Illinois State wrote about Lucas Barickman and Moe Shalil and their work in the lab.",
-  "image": "news-2016-press.jpg",
-  "alt": "Clipping of an article on undergraduate research in the lab"
- },
- {
-  "date": "2016-02-22",
-  "tag": "Award",
-  "title": "Lucas Barickman wins a poster award at Phi Sigma",
-  "body": "The whole lab presented at the symposium that weekend. Lucas took home a poster award.",
-  "image": "news-2016-lucas-poster.jpg",
-  "alt": "Lucas Barickman explaining his poster to a group at the Phi Sigma Symposium"
- },
- {
-  "date": "2016-01-31",
-  "tag": "Visit",
-  "title": "Lukas Landler visits from the Keays lab in Vienna",
-  "body": "Lukas came to learn the magnetic assays the lab uses with worms. He left proficient in them and a partner in future collaborations.",
-  "image": "news-2016-landler.jpg",
-  "alt": "Lukas Landler with lab members outside the science building in the snow"
- },
- {
-  "date": "2016-01-27",
-  "tag": "Milestone",
-  "title": "Moe defends his honors thesis",
-  "body": "Half the lab, those without a class at the time, posed for a picture after Moe's stellar defense.",
-  "image": "news-2016-moe-defense.jpg",
-  "alt": "Lab members gathered outside the building after Moe's honors thesis defense"
- },
- {
-  "date": "2016-01-26",
-  "tag": "Paper",
-  "title": "A methods paper within the first year",
-  "body": "Chance Bainbridge and Andrew Schuler's methods paper was accepted at the Journal of Neuroscience Methods after a Christmas break spent on assays and writing. The modest goal of a paper within the lab's first year was met. Wednesday pizza gained a topping."
- },
- {
-  "date": "2015-12-12",
-  "tag": "Building",
-  "title": "Sending worms to Mars, magnetically speaking",
-  "body": "Lucas Barickman finishing a system that reproduces the magnetic environment of Mars for worms.",
-  "image": "news-2015-lucas-mars.jpg",
-  "alt": "Lucas Barickman holding a green sphere labeled MARS beside the coil system"
- },
- {
-  "date": "2015-12-03",
-  "tag": "Lab life",
-  "title": "Neuroscience PIs at Illinois State",
-  "body": "A good place to study brains.",
-  "image": "news-2015-neuro-pis.jpg",
-  "alt": "Group photo of neuroscience faculty outside the science building"
- },
- {
-  "date": "2015-11-19",
-  "tag": "Visit",
-  "title": "Gal Haspel visits",
-  "body": "An evening out with Gal Haspel and colleagues after his talk.",
-  "image": "news-2015-haspel.jpg",
-  "alt": "Gal Haspel and colleagues outdoors on a winter evening"
- },
- {
-  "date": "2015-09-19",
-  "tag": "Image",
-  "title": "Friday evenings at the confocal",
-  "body": "Body wall muscle from C. elegans, imaged with Kevin Edwards. Actin in red, membrane in blue, mitochondria in green with the nucleus as the large circle.",
-  "image": "news-2015-confocal-muscle.jpg",
-  "alt": "Confocal image of a body wall muscle cell with red actin filaments, blue membrane and green mitochondria"
- },
- {
-  "date": "2015-07-05",
-  "tag": "Building",
-  "title": "A two dollar Narishige adapter",
-  "body": "Rather than spend hundreds on an adapter to attach the injection setup to the inverted microscope, Bill designed and printed one on the lab's 3D printer. It has held ever since.",
-  "image": "news-2015-adapter.jpg",
-  "alt": "An orange 3D printed adapter mounted on the microinjection rig"
- },
- {
-  "date": "2015-06-30",
-  "tag": "Meeting",
-  "title": "International C. elegans Meeting at UCLA",
-  "body": "The lab's first worm meeting. Chance Bainbridge presented his magnetic orientation work.",
-  "image": "news-2015-ucla.jpg",
-  "alt": "Chance Bainbridge explaining his poster at the International C. elegans Meeting"
- },
- {
-  "date": "2015-06-19",
-  "tag": "Building",
-  "title": "A 3D scanning and printing facility with the Stein lab",
-  "body": "The Vidal-Gadea and Stein labs set up a 3D scanning and printing facility for the whole department to use.",
-  "image": "news-2015-3dprinter.jpg",
-  "alt": "A desktop 3D printer and 3D scanner side by side on a bench"
- },
- {
-  "date": "2015-06-17",
-  "tag": "Paper",
-  "title": "Magnetosensitive neurons mediate geomagnetic orientation in C. elegans",
-  "body": "Published in eLife. The paper identifies a pair of sensory neurons required for the worm's orientation to the Earth's magnetic field. Students were promised donuts and coffee.",
-  "image": "news-2015-elife.jpg",
-  "alt": "Artwork of a worm against a green magnetic field",
-  "link": "https://elifesciences.org/articles/07493",
-  "linkText": "Read the paper"
- },
- {
-  "date": "2015-05-15",
-  "tag": "Lab life",
-  "title": "First PCR",
-  "body": "The students' first foray into PCR. One more attachment for the injection rig and the lab would be making transgenic strains.",
-  "image": "news-2015-first-pcr.jpg",
-  "alt": "An agarose gel under UV light with bands in several lanes"
- },
- {
-  "date": "2015-04-11",
-  "tag": "Poster",
-  "title": "Graduate symposium and high school presentations in one day",
-  "body": "Judging promising high school students in the morning, then checking in on the lab crew presenting at the Graduate Student Symposium in the afternoon. All five got to sell their wares.",
-  "image": "news-2015-grad-symposium.jpg",
-  "alt": "A graduate student beside his poster at the symposium"
- },
- {
-  "date": "2015-04-07",
-  "tag": "Paper",
-  "title": "The burrowing behavior of C. elegans, a new assay for neuromuscular disorders",
-  "body": "Accepted at Genes, Brain and Behavior. The first undergraduate paper from the group, with Celia Beron at UT Austin as first author, the first paper on C. elegans burrowing, and the lab's first work on muscular dystrophy."
- },
- {
-  "date": "2015-04-01",
-  "tag": "Outreach",
-  "title": "First graders in the lab",
-  "body": "Like giving a poster to that member of your committee. They liked making worm refrigerator magnets, and superhero worms.",
-  "image": "news-2015-first-graders.jpg",
-  "alt": "Hand made worm refrigerator magnets in bright colors"
- },
- {
-  "date": "2015-03-28",
-  "tag": "Meeting",
-  "title": "The lab's first conference",
-  "body": "The 22nd Annual Animal Behavior Conference at Indiana University. Chance Bainbridge presented his new findings on magnetic sensation.",
-  "image": "news-2015-first-conference.jpg",
-  "alt": "Chance Bainbridge presenting his poster at the Animal Behavior Conference"
- },
- {
-  "date": "2015-03-04",
-  "tag": "Building",
-  "title": "Building a magnetic coil system from wood, wire and Legos",
-  "body": "A three axis Merritt coil system with no metal in the frame, a copper mesh Faraday cage for the plates, and a tower of Legos at the center to hold the worms. With all three coils wired, the lab could neutralize and reverse every component of the Earth's field.",
-  "image": "news-2015-coils.jpg",
-  "alt": "The wooden three axis coil frame wound with copper wire on the workshop bench"
- },
- {
-  "date": "2015-02-28",
-  "tag": "Poster",
-  "title": "Phi Sigma Symposium, two months in",
-  "body": "After two months setting up shop and learning worm husbandry, the lab presented three posters, plus one from visiting Texan Celia Beron. Chance Bainbridge won a best poster prize and the travel award that came with it.",
-  "image": "news-2015-phisigma.jpg",
-  "alt": "Chance Bainbridge presenting his poster at the Phi Sigma Symposium"
- },
- {
-  "date": "2015-02-11",
-  "tag": "Building",
-  "title": "Homemade dark room",
-  "body": "Blackout curtains around a bench, for imaging.",
-  "image": "news-2015-darkroom.jpg",
-  "alt": "A bench enclosed in black curtains with a student at a microscope inside"
- },
- {
-  "date": "2015-01-08",
-  "tag": "Lab life",
-  "title": "Daniel and Chance learn basic worm techniques",
-  "body": "The first two graduate students learning to pick worms.",
-  "image": "news-2015-first-students.jpg",
-  "alt": "Two graduate students at dissecting microscopes in the new lab"
- },
- {
-  "date": "2015-01-05",
-  "tag": "Milestone",
-  "title": "Open for business",
-  "body": "Still a work in progress, but getting there.",
-  "image": "news-2015-open.jpg",
-  "alt": "The new laboratory with benches set up and boxes still to unpack"
- },
- {
-  "date": "2014-12-30",
-  "tag": "Milestone",
-  "title": "The lab opens its doors",
-  "body": "Andres arrived at Illinois State to be greeted by two new graduate students and a room full of boxes and dreams.",
-  "image": "news-2014-boxes.jpg",
-  "alt": "Cardboard boxes stacked in the empty lab on the first day"
- }
+  {
+    "date": "2026-10-24",
+    "tag": "Lab life",
+    "title": "A first PCR over Homecoming weekend",
+    "body": "Simon ran his first polymerase chain reaction this weekend. He loaded the reactions, then set the protocol on the thermocycler himself. Homecoming brings families through the building, and the lab is open when it can be. Children should see that science is a thing people do, and that the people doing it are reachable.",
+    "image": "news-simon-pcr.jpg",
+    "alt": "A young boy in a lab coat and goggles setting a protocol on the thermocycler touchscreen"
+  },
+  {
+    "date": "2026-10-23",
+    "tag": "Paper",
+    "title": "Mars analog paper accepted at Scientific Reports",
+    "body": "Aalimah Akinosho, with undergraduates Nora Armstrong and Zachary Benefield, reports behavioral deficits in animals raised for six generations under Mars analog gravity and hypomagnetic fields. The paper was accepted on 23 October 2026.",
+    "link": "https://doi.org/10.1101/2024.10.18.619154",
+    "linkText": "Read the preprint"
+  },
+  {
+    "date": "2026-10-16",
+    "tag": "Talk",
+    "title": "Mackenzie Jones gives the Physiology, Neuroscience and Behavior seminar",
+    "body": "Intracellular calcium kinetics in the musculature of freely moving animals: Mackenzie presented the lab's three-compartment calcium imaging in dystrophic and wild type worms to the PNB seminar series, the first student talk from the lab in the series this year."
+  },
+  {
+    "date": "2026-10-07",
+    "tag": "Milestone",
+    "title": "Damiano Marchiafava passes his doctoral defense",
+    "body": "Danny defended successfully. Hooding follows, but the defense was the event. His dissertation covers calcium handling in dystrophic muscle, including the finding that the plasma membrane calcium pump PMCA1 is downregulated before cytosolic calcium dysregulation appears.",
+    "image": "news-danny-defense.jpg",
+    "alt": "Danny at the lectern after his defense seminar, beside his closing slide"
+  },
+  {
+    "date": "2026-10-05",
+    "tag": "Talk",
+    "title": "Invited seminar at Wayne State University",
+    "body": "Andres gave the Department of Biological Sciences seminar in Detroit, titled Tracing the Origins of Dysfunction in Duchenne Muscular Dystrophy: A Multiscale Approach to Early Pathophysiology. The talk argued that the resting calcium set point is already displaced before dystrophic muscle has begun to contract, which makes the earliest pathology a problem of regulation rather than of injury. Hosted by Eleni Gourgou, with a day of meetings that included Joseph Roche, who works on Duchenne muscular dystrophy in the Physical Therapy Program there.",
+    "image": "news-wayne-roche.jpg",
+    "alt": "Andres with Joseph Roche at Wayne State University, the Detroit skyline behind them"
+  },
+  {
+    "date": "2026-09-02",
+    "tag": "Talk",
+    "title": "Naga Nidadavolu opens the fall Molecular and Cellular Biology seminar series",
+    "body": "Characterization of smooth muscle pathophysiology in Duchenne muscular dystrophy: Naga gave the first MCB seminar of the semester, laying out the lab's smooth muscle program in worms and human cells, and defended her thesis proposal the same week."
+  },
+  {
+    "date": "2026-09-01",
+    "tag": "Grant",
+    "title": "Third R15 awarded by NIAMS",
+    "body": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases funded a third successive R15 for the genetic repair of muscular degeneration in Duchenne muscular dystrophy, with Xiaotian Dai as co-investigator. The lab has held continuous external funding since 2015.",
+    "link": "https://reporter.nih.gov/search/HZfYaeek60OJntCs19XEkA/projects",
+    "linkText": "NIH RePORTER"
+  },
+  {
+    "date": "2026-07-30",
+    "tag": "Poster",
+    "title": "Marcos Perez-Rodriguez at the Summer of Inquiry Symposium",
+    "body": "Marcos presented Characterizing dystrophic C. elegans strains to study the pathogenesis of Duchenne muscular dystrophy at ISU's second Summer of Inquiry Symposium, comparing burrowing and swimming proficiency and muscle integrity across the lab's dystrophic strains, with Mackenzie, Naga and Danny as co-authors."
+  },
+  {
+    "date": "2026-06-03",
+    "tag": "Lab life",
+    "title": "The Big Run on Global Running Day",
+    "body": "Mackenzie Jones and Andres ran Fleet Feet's Big Run 5K at Tipton Park on Global Running Day, an out and back on the Constitution Trail. Mackenzie is a marathoner as well as a master's student. The lab recommends taking the muscle out for a run now and then.",
+    "image": "news-bigrun.jpg",
+    "alt": "Mackenzie Jones and Andres after the Big Run 5K at Tipton Park"
+  },
+  {
+    "date": "2026-05-18",
+    "tag": "Outreach",
+    "title": "Science on Tap: How animals read the Earth's magnetic field",
+    "body": "A public talk for Science on Tap, given in a local pub on a Monday evening. The audience was handed paper arrows and asked to point them at their favorite holiday destination without any aids, which is the problem a migrating animal solves every year. From there: robins, spiny lobsters, hammerhead sharks and a one millimeter worm, each borrowing a different sense to read one field. Taking the work to a room where people already are is most of the point.",
+    "image": "news-science-on-tap-2026.jpg",
+    "alt": "Title slide for the Science on Tap talk, How animals read the Earth's magnetic field, with the Science on Tap Blo-No logo"
+  },
+  {
+    "date": "2026-04-18",
+    "tag": "Meeting",
+    "title": "Midwest C. elegans Meeting at the Van Andel Institute",
+    "body": "A short overnight trip to Grand Rapids for the Midwest C. elegans Meeting with Mackenzie Jones and three of the undergraduate team, under the glass DNA in the Van Andel Institute atrium. Back home the same weekend, Danny and Erin represented the lab at the Phi Sigma Research Symposium and won best poster in the graduate and undergraduate categories.",
+    "image": "news-midwest-2026-group.jpg",
+    "alt": "Five lab members standing in the Van Andel Institute atrium beneath a blue glass sculpture of a DNA double helix"
+  },
+  {
+    "date": "2026-04-17",
+    "tag": "Poster",
+    "title": "Mackenzie Jones presents compartmental calcium analysis in Duchenne muscular dystrophy",
+    "body": "Using the lab's RGBCaMP strain, Mackenzie followed calcium in the sarcoplasm, mitochondria and sarcoplasmic reticulum of freely moving animals. Dystrophic worms show higher sarcoplasmic calcium and a loss of sarcoplasmic reticulum calcium cycling. Presented at the Midwest C. elegans Meeting in Grand Rapids.",
+    "image": "news-midwest-2026-poster.jpg",
+    "alt": "Mackenzie Jones explaining her poster, Dynamic compartmental calcium analysis in Duchenne muscular dystrophy, to a visitor"
+  },
+  {
+    "date": "2026-04-17",
+    "tag": "Award",
+    "title": "Phi Sigma Symposium: four posters, two best-poster awards, three inductions",
+    "body": "Danny, Mackenzie, Erin and Avinaash presented at the 26th Phi Sigma Research Symposium. Danny's poster on early dystrophic calcium elevation, from C. elegans embryos to human myoblasts, took best graduate poster, and Erin's on smooth muscle in Duchenne muscular dystrophy took best undergraduate poster. Erin Cheeseman, Elyssa Guleng and Nora Armstrong were inducted into the Beta Lambda chapter of Phi Sigma, the biological sciences honor society."
+  },
+  {
+    "date": "2026-04-15",
+    "tag": "Award",
+    "title": "Mackenzie Jones in the Image of Research exhibition",
+    "body": "Mackenzie's entry, Coloring the Secret Life of Muscles, shows calcium reporters firing along the body wall muscle of freely moving animals. The lab builds its own reporters and its own analysis, and this is what that work looks like before it becomes a figure.",
+    "image": "news-mackenzie-ior.jpg",
+    "alt": "Mackenzie Jones beside her Image of Research entry, nine worms imaged with calcium reporters on a black field"
+  },
+  {
+    "date": "2026-04-10",
+    "tag": "Poster",
+    "title": "Rene Wilderman presents at the University Research Symposium",
+    "body": "Rene asked whether the corticosteroids given to Duchenne patients help smooth muscle the way they help striated muscle, measuring egg laying rate as the readout. The preliminary answer is that they do not, and that vamorolone, despite its reputation for reduced side effects, did not restore egg laying either. With Mackenzie Jones as second author.",
+    "image": "news-rene-poster.jpg",
+    "alt": "Rene Wilderman beside her poster on corticosteroids and smooth muscle in Duchenne muscular dystrophy"
+  },
+  {
+    "date": "2026-04-04",
+    "tag": "Lab life",
+    "title": "About half the crew in at once",
+    "body": "About half of the current crew happened to be in the lab at the same time. That is rare enough to be worth a photograph.",
+    "image": "lab-group-6a.jpg",
+    "alt": "Six lab members standing together in the laboratory"
+  },
+  {
+    "date": "2026-02-05",
+    "tag": "Talk",
+    "title": "Neuroscience and Physiology seminar at Illinois State",
+    "body": "Tracing the origins of dysfunction in Duchenne muscular dystrophy, a multiscale approach to early pathophysiology. Science Laboratory Building 121, Thursday at noon.",
+    "image": "doc-sbs-seminar-feb2026.jpg",
+    "alt": "Seminar announcement for the Neuroscience and Physiology Seminar Series"
+  },
+  {
+    "date": "2025-12-24",
+    "tag": "Paper",
+    "title": "Muscle architecture remodels during locomotion",
+    "body": "Adina Fazyl and high school researcher Anbu Anbu, contributing equally, show activity dependent remodeling of muscle architecture during distinct locomotor behaviors. Accepted 16 December and live in Biology Open on 24 December, the third paper from Adina's thesis.",
+    "link": "https://doi.org/10.1242/bio.062371",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2025-12-19",
+    "tag": "Alumni",
+    "title": "Lucas Barickman visits, eleven years on",
+    "body": "Lucas worked in the lab as an undergraduate in 2015. He came back over Christmas break, now a surgeon in Switzerland, and could still pick worms with the best of them. He took the same seat at the scope and gave the camera the same look. Undergraduate research is a long game.",
+    "image": "news-lucas-thenandnow.jpg",
+    "alt": "Lucas Barickman at the bench in 2015 and back at the microscope in 2026, same pose in both"
+  },
+  {
+    "date": "2025-12-18",
+    "tag": "Award",
+    "title": "Adina Fazyl's image on the cover of Biophysical Journal",
+    "body": "Adina's confocal image of body wall muscle was chosen for the cover of the December issue of Biophysical Journal. The same image won her an Image of Research award at Illinois State earlier in the year.",
+    "image": "news-2025-bj-cover.jpg",
+    "alt": "Cover of Biophysical Journal showing a confocal image of C. elegans body wall muscle in yellow and magenta",
+    "link": "https://www.cell.com/issue/S0006-3495(24)X0025-9",
+    "linkText": "See the issue"
+  },
+  {
+    "date": "2025-12-17",
+    "tag": "Award",
+    "title": "Outstanding University Researcher Award",
+    "body": "Andres received Illinois State's Outstanding University Researcher Award for 2025 to 2026, which recognizes faculty for excellence in research and requires a prior Outstanding College Research Award. The university's announcement followed in February. The award reflects the work of the students and collaborators who carried the lab through a difficult year for research funding.",
+    "link": "https://news.illinoisstate.edu/2026/02/research-award-winners-for-2025-2026-announced/",
+    "linkText": "Read the announcement"
+  },
+  {
+    "date": "2025-12-02",
+    "tag": "Award",
+    "title": "Adina Fazyl wins the Fisher Thesis Award",
+    "body": "Adina's master's thesis won the College of Arts and Sciences Fisher Thesis Award. Three manuscripts from the thesis are published, with more in preparation."
+  },
+  {
+    "date": "2025-10-25",
+    "tag": "Outreach",
+    "title": "The Amazing World of Worms coloring book",
+    "body": "A scientific coloring book for young readers, written and drawn by the lab to share what it finds interesting about a tiny nematode. Available on Amazon.",
+    "image": "news-2025-coloring-book.jpg",
+    "alt": "Cover of The Amazing World of Worms scientific coloring book",
+    "link": "https://a.co/d/fCWEiuQ",
+    "linkText": "Find it on Amazon"
+  },
+  {
+    "date": "2025-08-16",
+    "tag": "Milestone",
+    "title": "Promotion to Professor",
+    "body": "Andres was promoted to Professor in August 2025, ten years and eight months after the lab opened its doors."
+  },
+  {
+    "date": "2025-08-01",
+    "tag": "Paper",
+    "title": "Independent validation of transgenerational pathogen avoidance",
+    "body": "Aalimah Akinosho and Jordan Alexander independently validated the transgenerational inheritance of learned pathogen avoidance, published in eLife. Information about a threat outliving the animal that met it is one of the three kinds of disruption the lab studies.",
+    "link": "https://elifesciences.org/articles/107034",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2025-06-28",
+    "tag": "Meeting",
+    "title": "International C. elegans Meeting at UC Davis",
+    "body": "The first in-person worm meeting for the lab since before the pandemic. The community gathered to celebrate Victor Ambros and Gary Ruvkun, winners of the 2024 Nobel Prize in Physiology or Medicine, and Andres roomed with Jon Pierce, his postdoctoral mentor and the person who first put a worm under his microscope.",
+    "image": "news-2025-worm-meeting.jpg",
+    "alt": "A crowded lecture hall at the International C. elegans Meeting"
+  },
+  {
+    "date": "2025-05-09",
+    "tag": "Milestone",
+    "title": "Shifat Niha and Aalimah Akinosho earn their master's degrees",
+    "body": "Two graduations on one evening. Shifat worked on dystrophin isoforms in the nervous system; Aalimah on transgenerational pathogen avoidance and on life under Mars analog conditions.",
+    "image": "news-2025-ms-graduation.jpg",
+    "alt": "Two graduates in regalia holding their diploma cases at the evening commencement"
+  },
+  {
+    "date": "2025-03-19",
+    "tag": "Meeting",
+    "title": "Four posters at Advances in Skeletal Muscle Biology",
+    "body": "Danny Marchiafava presented in Gainesville, carrying the lab's muscle work to a room of people who do nothing else. Two posters were his own, on the conserved role of MCA-1 and PMCA in early calcium dynamics and on dystrophin isoform expression and muscle plasticity. A poster hall is where most of a lab's output actually meets its audience, two hours at a time, standing next to a sheet of paper and arguing with whoever stops.",
+    "image": "news-danny-gainesville-2025.jpg",
+    "alt": "Damiano Marchiafava turning toward the camera mid-sentence while talking with a colleague beside his poster in the conference hall"
+  },
+  {
+    "date": "2025-01-16",
+    "tag": "Paper",
+    "title": "Stretch receptors in muscle, published in Biophysical Journal",
+    "body": "Adina Fazyl's paper on the mechanosensitive channel PEZO-1 in body wall muscle. Muscles express a dozen kinds of mechanical channel, and much of what they do is unresolved. Here, one of them widens the behavioral repertoire without asking the nervous system to compute anything. Accepted on the lab's tenth anniversary, 30 December 2024.",
+    "image": "news-2025-pezo-muscle.jpg",
+    "alt": "Confocal image of body wall muscle fibers in yellow with magenta nuclei",
+    "link": "https://doi.org/10.1101/2024.08.13.607367",
+    "linkText": "Read the preprint"
+  },
+  {
+    "date": "2024-12-30",
+    "tag": "Milestone",
+    "title": "Ten years of the Worm Lab at Illinois State",
+    "body": "Ten years to the day after Andres arrived at ISU to find two new graduate students and a room full of boxes. The best part of the day is still hearing laughter from the lab all the way down the hall."
+  },
+  {
+    "date": "2024-11-07",
+    "tag": "Milestone",
+    "title": "Adina Fazyl defends her master's thesis",
+    "body": "Two years flat, with one paper published, two under review and a fourth nearing completion. Here she is taking a break to collect an award for her confocal work.",
+    "image": "news-2024-adina-defense.jpg",
+    "alt": "Adina Fazyl beside her award winning confocal image on an easel"
+  },
+  {
+    "date": "2024-06-28",
+    "tag": "Visit",
+    "title": "Jon Pierce and Koutarou Kimura visit the lab",
+    "body": "Jon Pierce from UT Austin and Koutarou Kimura from Nagoya University spent a day in the lab on their way to the C. elegans Neuro Meeting in Madison.",
+    "image": "news-2024-pierce-kimura.jpg",
+    "alt": "Jon Pierce and Koutarou Kimura with lab members at the bench"
+  },
+  {
+    "date": "2024-06-27",
+    "tag": "Meeting",
+    "title": "Aalimah Akinosho at the C. elegans Neuro Meeting in Madison",
+    "body": "Aalimah presented the lab's work on transgenerational pathogen avoidance.",
+    "image": "news-2024-madison.jpg",
+    "alt": "Aalimah Akinosho and Andres outside the meeting venue in Madison"
+  },
+  {
+    "date": "2024-04-13",
+    "tag": "Poster",
+    "title": "Two symposia and an eclipse",
+    "body": "The Biology Graduate Student Symposium, the total solar eclipse, then the University Research Symposium, all inside two weeks. The students did well at both.",
+    "image": "news-2024-symposia.jpg",
+    "alt": "Adina Fazyl beside her poster at the University Research Symposium"
+  },
+  {
+    "date": "2024-02-08",
+    "tag": "Award",
+    "title": "Adina Fazyl places second in the Image of Research competition",
+    "body": "Adina was a finalist in the Illinois State Image of Research competition and took second place in the graduate category.",
+    "image": "news-2024-ior-adina.jpg",
+    "alt": "Adina Fazyl beside her Image of Research entry on an easel"
+  },
+  {
+    "date": "2023-12-19",
+    "tag": "Instrument",
+    "title": "The WormZapper arrives",
+    "body": "Two years in the making. The instrument delivers a 1 tesla magnetic pulse in 5 milliseconds, enough to demagnetize any magnetic particle inside an animal. It is used to test magnetic orientation.",
+    "image": "news-2023-wormzapper.jpg",
+    "alt": "The WormZapper pulse magnetizer on a bench beside an oscilloscope"
+  },
+  {
+    "date": "2023-12-19",
+    "tag": "Paper",
+    "title": "A first paper for a high school intern",
+    "body": "High school intern Adithya and graduate student Adina Fazyl published their first scientific paper, on the stretch receptor pezo-1, in microPublication Biology.",
+    "link": "https://micropublication.org/journals/biology/micropub-biology-001085",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2023-11-17",
+    "tag": "Meeting",
+    "title": "Society for Neuroscience in Washington, DC",
+    "body": "Catching up with scientists from every stage of a career, going back to an undergraduate year in Dorothy Paul's lab at the University of Victoria.",
+    "image": "news-2023-sfn.jpg",
+    "alt": "The poster hall at the Society for Neuroscience meeting"
+  },
+  {
+    "date": "2023-09-21",
+    "tag": "Alumni",
+    "title": "Celia Beron publishes in Nature",
+    "body": "Celia was an undergraduate in Jon Pierce's lab at UT Austin when she did the lab's first Duchenne work, and she came to ISU to present it at the Phi Sigma Symposium in 2015. She went on to a PhD in neuroscience at Harvard and has now published in Nature.",
+    "image": "news-2023-celia.jpg",
+    "alt": "Celia Beron presenting a poster at the Phi Sigma Symposium in 2015",
+    "link": "https://www.nature.com/articles/s41586-023-06492-9",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2023-07-22",
+    "tag": "Instrument",
+    "title": "Wormbot 3 replaces Wormbot 1",
+    "body": "A new automated imaging robot for behavioral assays, replacing the original built in the lab's first years.",
+    "image": "news-2023-wormbot.jpg",
+    "alt": "The Wormbot 3 imaging robot on a bench"
+  },
+  {
+    "date": "2023-04-25",
+    "tag": "Lab life",
+    "title": "A thermal camera for temperature controlled experiments",
+    "body": "The camera is for the environmental chamber. The first afternoon was spent on other subjects.",
+    "image": "news-2023-thermal.jpg",
+    "alt": "Thermal camera image of two people in the lab, glowing orange against purple"
+  },
+  {
+    "date": "2023-04-22",
+    "tag": "Meeting",
+    "title": "Midwest C. elegans Meeting in Detroit",
+    "body": "The lab presented at the regional worm meeting at Wayne State University.",
+    "image": "news-2023-midwest.jpg",
+    "alt": "Lab members presenting posters at the Midwest C. elegans Meeting"
+  },
+  {
+    "date": "2023-03-24",
+    "tag": "Poster",
+    "title": "Biology Graduate Student Symposium",
+    "body": "The lab made a good showing at the annual symposium.",
+    "image": "news-2023-bio-symposium.jpg",
+    "alt": "Students presenting posters in a hotel corridor at the Biology Graduate Student Symposium"
+  },
+  {
+    "date": "2023-03-16",
+    "tag": "Meeting",
+    "title": "Advances in Skeletal Muscle Biology, Gainesville",
+    "body": "Adina Fazyl presented first, with Andres the following day, at the skeletal muscle conference at the University of Florida.",
+    "image": "news-2023-gainesville.jpg",
+    "alt": "Adina Fazyl beside her poster at the skeletal muscle conference"
+  },
+  {
+    "date": "2023-03-12",
+    "tag": "Outreach",
+    "title": "DNA isolation with the Girl Scouts",
+    "body": "Materials ready for an afternoon extracting DNA with a Girl Scout troop. Sports drink, dish soap and a lot of enthusiasm.",
+    "image": "news-2023-girl-scouts.jpg",
+    "alt": "Bottles of sports drink and household supplies laid out for a DNA extraction activity"
+  },
+  {
+    "date": "2023-02-10",
+    "tag": "Talk",
+    "title": "Pathway in Research, a talk for SACNAS",
+    "body": "An evening talk for the Illinois State chapter of SACNAS on how a research career takes shape.",
+    "image": "news-2023-sacnas-talk.jpg",
+    "alt": "SACNAS flyer for the faculty talk Pathway in Research"
+  },
+  {
+    "date": "2022-12-04",
+    "tag": "Visit",
+    "title": "Jessica Deichmann of the Smithsonian visits",
+    "body": "Jessica Deichmann visited the lab and gave the department a talk on conservation work around the world.",
+    "image": "news-2022-deichmann.jpg",
+    "alt": "Jessica Deichmann looking into a microscope in the lab"
+  },
+  {
+    "date": "2022-11-11",
+    "tag": "Award",
+    "title": "Erinda Aidoo's fifth and sixth awards",
+    "body": "Erinda became the inaugural recipient of the Peggy Redshaw and Jerry Lincecum Scholarship in the Biological Sciences, then a week later the Gletten Scholarship. Pictured at SACNAS in Puerto Rico, presenting research from her summer at Yale School of Medicine.",
+    "image": "news-2022-erinda-sacnas.jpg",
+    "alt": "Erinda Aidoo beside her poster at the SACNAS meeting"
+  },
+  {
+    "date": "2022-11-01",
+    "tag": "Lab life",
+    "title": "Halloween",
+    "body": "Undergraduates Erin, Teagan and Annemarie handed out candy to more than six hundred children at the lab's annual Halloween gathering.",
+    "image": "news-2022-halloween.jpg",
+    "alt": "A porch decorated for Halloween at dusk with trick or treaters"
+  },
+  {
+    "date": "2022-09-28",
+    "tag": "Grant",
+    "title": "Erinda Aidoo wins a BirdFEEDER grant",
+    "body": "The grant from Illinois State pays for her reagents. She also made the lab a painting.",
+    "image": "news-2022-erinda-art.jpg",
+    "alt": "A painting of a worm in gold leaf on a white canvas"
+  },
+  {
+    "date": "2022-09-23",
+    "tag": "Grant",
+    "title": "NIH R15 renewed for three more years",
+    "body": "The R15 award for the lab's Duchenne muscular dystrophy work was renewed. Thanks are due to the high school, undergraduate and graduate students and collaborators who made the case."
+  },
+  {
+    "date": "2022-05-06",
+    "tag": "Milestone",
+    "title": "Kiley Hughes graduates with her PhD",
+    "body": "Kiley joined the lab in 2017 and is now Dr. Hughes.",
+    "image": "news-2022-kiley-phd.jpg",
+    "alt": "Kiley Hughes in doctoral regalia with Andres at commencement"
+  },
+  {
+    "date": "2022-02-28",
+    "tag": "Award",
+    "title": "Erinda Aidoo takes first prize at Phi Sigma",
+    "body": "First prize for her poster at the Phi Sigma Symposium on Friday, then a summer internship at UChicago Medicine on Monday.",
+    "image": "news-2022-erinda-phisigma.jpg",
+    "alt": "Erinda Aidoo presenting her poster at the Phi Sigma Symposium"
+  },
+  {
+    "date": "2021-09-17",
+    "tag": "Outreach",
+    "title": "Lab visitors art gallery",
+    "body": "The lab hosted, and then visited, the Illinois State University Child Care Center. The artists, aged four and five, drew what they saw, and their explanations are among the lab's most prized reviews.",
+    "image": "news-2021-childcare-art.jpg",
+    "alt": "A child's drawing of a scientist at a microscope beside plates of worms"
+  },
+  {
+    "date": "2021-07-22",
+    "tag": "Milestone",
+    "title": "First human muscle cells in culture",
+    "body": "Jessica Adams established the lab's first immortalized human myocyte culture, the first step toward a human in vitro system alongside the nematode for studying Duchenne muscular dystrophy.",
+    "image": "news-2021-myocytes.jpg",
+    "alt": "Immunofluorescence panels of cultured human myocytes stained for nuclei, myosin and actin"
+  },
+  {
+    "date": "2020-10-12",
+    "tag": "Image",
+    "title": "A worm with every neuron in a different color",
+    "body": "NeuroPAL, engineered by Oliver Hobert's lab, gives each of the 302 neurons its own color combination. Imaged by Kiley Hughes on the core facility's Leica SP8.",
+    "image": "news-2020-neuropal.jpg",
+    "alt": "Confocal image of a whole worm with multicolored neurons"
+  },
+  {
+    "date": "2020-09-16",
+    "tag": "Award",
+    "title": "Researchers to Know 2020",
+    "body": "The Illinois Science and Technology Coalition named Andres among its 19 Researchers to Know for 2020, nominated by Illinois State. The entry cites the lab's work on how physical activity and intracellular calcium shape the progression of muscular dystrophy, the magnetic field work, and 130 students mentored since 2015. Credit goes to the people in the lab doing the work.",
+    "link": "https://www.istcoalition.org/2020-researchers-to-know/",
+    "linkText": "Read more"
+  },
+  {
+    "date": "2020-09-15",
+    "tag": "Outreach",
+    "title": "STEAM Talk podcast, episode one",
+    "body": "The first episode of the STEAM Talk podcast features Andres on worms, muscular dystrophy and a couple of questionable worm jokes.",
+    "link": "https://podcasts.apple.com/us/podcast/steam-talk/id1531801472",
+    "linkText": "Listen"
+  },
+  {
+    "date": "2020-09-12",
+    "tag": "Lab life",
+    "title": "The first five years in pictures",
+    "body": "An album assembled during the pandemic, from the 2014 job talk flyer to Anjelica Rodriguez becoming the lab's first graduate.",
+    "image": "news-2020-lab-sign.jpg",
+    "alt": "A hand painted Worm Lab sign above the lab door"
+  },
+  {
+    "date": "2018-02-27",
+    "tag": "Poster",
+    "title": "LSAMP Symposium in Chicago",
+    "body": "Janelle Jackson placed third for the second year running at the Louis Stokes Alliances for Minority Participation Symposium, competing with more than a hundred students from across Illinois. Natalie Burrell also presented. The same week Neha Gutta was admitted to the ResearchStart summer program for high school students.",
+    "image": "news-2018-lsamp.jpg",
+    "alt": "Four lab students in business dress at the LSAMP Symposium"
+  },
+  {
+    "date": "2017-11-16",
+    "tag": "Poster",
+    "title": "Second annual BSSA symposium",
+    "body": "The Biological Sciences Student Association's undergraduate symposium, in its second year.",
+    "image": "news-2017-bssa.jpg",
+    "alt": "An undergraduate presenting her poster at the BSSA symposium"
+  },
+  {
+    "date": "2017-06-20",
+    "tag": "Instrument",
+    "title": "A confocal microscope of our own",
+    "body": "The lab became part owner of a confocal microscope.",
+    "image": "news-2017-confocal.jpg",
+    "alt": "A confocal microscope and workstation in a darkened room"
+  },
+  {
+    "date": "2017-05-12",
+    "tag": "Lab life",
+    "title": "End of semester with the graduating undergraduates",
+    "body": "The Phi Sigma banquet, a last lab day for many of the crew, and commencement.",
+    "image": "news-2017-graduating.jpg",
+    "alt": "The lab crew gathered in the laboratory at the end of the semester"
+  },
+  {
+    "date": "2017-05-01",
+    "tag": "Award",
+    "title": "Weigel Awards for Abbi Benson and Casey Gährs",
+    "body": "Each received a Weigel Award from the School of Biological Sciences, Casey's third award in as many weeks.",
+    "image": "news-2017-weigel.jpg",
+    "alt": "Casey and Abbi at a poster, labeled with red arrows"
+  },
+  {
+    "date": "2017-04-22",
+    "tag": "Meeting",
+    "title": "Midwest C. elegans Meeting in Grand Rapids",
+    "body": "The students made the lab proud at the regional meeting in Michigan.",
+    "image": "news-2017-midwest.jpg",
+    "alt": "Lab students at the Midwest C. elegans Meeting"
+  },
+  {
+    "date": "2017-03-24",
+    "tag": "Award",
+    "title": "Phi Sigma Symposium 2017",
+    "body": "Anjelica Rodriguez won her second consecutive poster award, and Zach and Jocelyn were recognized for presenting the villi paper.",
+    "image": "news-2017-phisigma.jpg",
+    "alt": "A student pointing at her poster at the Phi Sigma Symposium"
+  },
+  {
+    "date": "2017-03-21",
+    "tag": "Visit",
+    "title": "Visitors from Hendrix College",
+    "body": "Brenda Houck and Ploy Freebairn came from Hendrix College in Arkansas to learn worm maintenance and techniques as Brenda set up her own lab. Kiley Hughes, the lab's newest graduate student, visited from Washington the same week.",
+    "image": "news-2017-hendrix.jpg",
+    "alt": "Brenda Houck and Ploy Freebairn in the lab"
+  },
+  {
+    "date": "2017-03-21",
+    "tag": "Award",
+    "title": "Janelle Jackson wins third prize at LSAMP",
+    "body": "Janelle presented at the LSAMP Symposium and took third prize for her poster.",
+    "image": "news-2017-janelle.jpg",
+    "alt": "Janelle Jackson holding her award plaque between two LSAMP organizers"
+  },
+  {
+    "date": "2017-02-26",
+    "tag": "Meeting",
+    "title": "First Latin American C. elegans Meeting",
+    "body": "The first meeting of C. elegans researchers from across Latin America was a great success.",
+    "image": "news-2017-latam.jpg",
+    "alt": "Group photo of attendees at the first Latin American C. elegans Meeting"
+  },
+  {
+    "date": "2016-11-10",
+    "tag": "Poster",
+    "title": "First undergraduate research symposium of the SBS Student Association",
+    "body": "The student association's first undergraduate symposium, with the lab well represented.",
+    "image": "news-2016-sbssa.jpg",
+    "alt": "A student presenting her poster at the undergraduate research symposium"
+  },
+  {
+    "date": "2016-09-12",
+    "tag": "Lab life",
+    "title": "A new generation of undergraduate researchers",
+    "body": "Andrew teaching the finer points of burrowing nematodes to the fall cohort.",
+    "image": "news-2016-andrew-burrowing.jpg",
+    "alt": "Andrew at the bench with new undergraduate researchers gathered around"
+  },
+  {
+    "date": "2016-07-15",
+    "tag": "Outreach",
+    "title": "Summer Research Academy for high school students",
+    "body": "Fourteen high school students spent a week in the lab learning what research is. The lab crew ran a C. elegans bootcamp from eight in the morning and were still finishing the students' immunohistochemistry at eleven at night. Anjelica Rodriguez did much of the organizing.",
+    "image": "news-2016-summer-academy.jpg",
+    "alt": "High school students at benches during the Summer Research Academy"
+  },
+  {
+    "date": "2016-07-09",
+    "tag": "Lab life",
+    "title": "The lab extension is ready",
+    "body": "A second room, geared up for fourteen high school students in July and as many undergraduate researchers in the fall.",
+    "image": "news-2016-extension.jpg",
+    "alt": "The newly fitted lab extension with empty benches and a window"
+  },
+  {
+    "date": "2016-05-06",
+    "tag": "Milestone",
+    "title": "Commencement 2016",
+    "body": "The lab celebrated its graduating students.",
+    "image": "news-2016-commencement.jpg",
+    "alt": "Faculty in regalia at the 2016 commencement ceremony"
+  },
+  {
+    "date": "2016-04-08",
+    "tag": "Meeting",
+    "title": "Animal Behavior Conference 2016",
+    "body": "The lab presented at the Animal Behavior Conference at Indiana University, the week after the ISU Graduate Student Symposium.",
+    "image": "news-2016-abc.jpg",
+    "alt": "Students presenting posters at the Animal Behavior Conference"
+  },
+  {
+    "date": "2016-03-17",
+    "tag": "Press",
+    "title": "Undergraduates learn the utility of C. elegans",
+    "body": "Illinois State wrote about Lucas Barickman and Moe Shalil and their work in the lab.",
+    "image": "news-2016-press.jpg",
+    "alt": "Clipping of an article on undergraduate research in the lab"
+  },
+  {
+    "date": "2016-02-22",
+    "tag": "Award",
+    "title": "Lucas Barickman wins a poster award at Phi Sigma",
+    "body": "The whole lab presented at the symposium that weekend. Lucas took home a poster award.",
+    "image": "news-2016-lucas-poster.jpg",
+    "alt": "Lucas Barickman explaining his poster to a group at the Phi Sigma Symposium"
+  },
+  {
+    "date": "2016-01-31",
+    "tag": "Visit",
+    "title": "Lukas Landler visits from the Keays lab in Vienna",
+    "body": "Lukas came to learn the magnetic assays the lab uses with worms. He left proficient in them and a partner in future collaborations.",
+    "image": "news-2016-landler.jpg",
+    "alt": "Lukas Landler with lab members outside the science building in the snow"
+  },
+  {
+    "date": "2016-01-27",
+    "tag": "Milestone",
+    "title": "Moe defends his honors thesis",
+    "body": "Half the lab, those without a class at the time, posed for a picture after Moe's stellar defense.",
+    "image": "news-2016-moe-defense.jpg",
+    "alt": "Lab members gathered outside the building after Moe's honors thesis defense"
+  },
+  {
+    "date": "2016-01-26",
+    "tag": "Paper",
+    "title": "A methods paper within the first year",
+    "body": "Chance Bainbridge and Andrew Schuler's methods paper was accepted at the Journal of Neuroscience Methods after a Christmas break spent on assays and writing. The modest goal of a paper within the lab's first year was met. Wednesday pizza gained a topping."
+  },
+  {
+    "date": "2015-12-12",
+    "tag": "Building",
+    "title": "Sending worms to Mars, magnetically speaking",
+    "body": "Lucas Barickman finishing a system that reproduces the magnetic environment of Mars for worms.",
+    "image": "news-2015-lucas-mars.jpg",
+    "alt": "Lucas Barickman holding a green sphere labeled MARS beside the coil system"
+  },
+  {
+    "date": "2015-12-03",
+    "tag": "Lab life",
+    "title": "Neuroscience PIs at Illinois State",
+    "body": "A good place to study brains.",
+    "image": "news-2015-neuro-pis.jpg",
+    "alt": "Group photo of neuroscience faculty outside the science building"
+  },
+  {
+    "date": "2015-11-19",
+    "tag": "Visit",
+    "title": "Gal Haspel visits",
+    "body": "An evening out with Gal Haspel and colleagues after his talk.",
+    "image": "news-2015-haspel.jpg",
+    "alt": "Gal Haspel and colleagues outdoors on a winter evening"
+  },
+  {
+    "date": "2015-09-19",
+    "tag": "Image",
+    "title": "Friday evenings at the confocal",
+    "body": "Body wall muscle from C. elegans, imaged with Kevin Edwards. Actin in red, membrane in blue, mitochondria in green with the nucleus as the large circle.",
+    "image": "news-2015-confocal-muscle.jpg",
+    "alt": "Confocal image of a body wall muscle cell with red actin filaments, blue membrane and green mitochondria"
+  },
+  {
+    "date": "2015-07-05",
+    "tag": "Building",
+    "title": "A two dollar Narishige adapter",
+    "body": "Rather than spend hundreds on an adapter to attach the injection setup to the inverted microscope, Bill designed and printed one on the lab's 3D printer. It has held ever since.",
+    "image": "news-2015-adapter.jpg",
+    "alt": "An orange 3D printed adapter mounted on the microinjection rig"
+  },
+  {
+    "date": "2015-06-30",
+    "tag": "Meeting",
+    "title": "International C. elegans Meeting at UCLA",
+    "body": "The lab's first worm meeting. Chance Bainbridge presented his magnetic orientation work.",
+    "image": "news-2015-ucla.jpg",
+    "alt": "Chance Bainbridge explaining his poster at the International C. elegans Meeting"
+  },
+  {
+    "date": "2015-06-19",
+    "tag": "Building",
+    "title": "A 3D scanning and printing facility with the Stein lab",
+    "body": "The Vidal-Gadea and Stein labs set up a 3D scanning and printing facility for the whole department to use.",
+    "image": "news-2015-3dprinter.jpg",
+    "alt": "A desktop 3D printer and 3D scanner side by side on a bench"
+  },
+  {
+    "date": "2015-06-17",
+    "tag": "Paper",
+    "title": "Magnetosensitive neurons mediate geomagnetic orientation in C. elegans",
+    "body": "Published in eLife. The paper identifies a pair of sensory neurons required for the worm's orientation to the Earth's magnetic field. Students were promised donuts and coffee.",
+    "image": "news-2015-elife.jpg",
+    "alt": "Artwork of a worm against a green magnetic field",
+    "link": "https://elifesciences.org/articles/07493",
+    "linkText": "Read the paper"
+  },
+  {
+    "date": "2015-05-15",
+    "tag": "Lab life",
+    "title": "First PCR",
+    "body": "The students' first foray into PCR. One more attachment for the injection rig and the lab would be making transgenic strains.",
+    "image": "news-2015-first-pcr.jpg",
+    "alt": "An agarose gel under UV light with bands in several lanes"
+  },
+  {
+    "date": "2015-04-11",
+    "tag": "Poster",
+    "title": "Graduate symposium and high school presentations in one day",
+    "body": "Judging promising high school students in the morning, then checking in on the lab crew presenting at the Graduate Student Symposium in the afternoon. All five got to sell their wares.",
+    "image": "news-2015-grad-symposium.jpg",
+    "alt": "A graduate student beside his poster at the symposium"
+  },
+  {
+    "date": "2015-04-07",
+    "tag": "Paper",
+    "title": "The burrowing behavior of C. elegans, a new assay for neuromuscular disorders",
+    "body": "Accepted at Genes, Brain and Behavior. The first undergraduate paper from the group, with Celia Beron at UT Austin as first author, the first paper on C. elegans burrowing, and the lab's first work on muscular dystrophy."
+  },
+  {
+    "date": "2015-04-01",
+    "tag": "Outreach",
+    "title": "First graders in the lab",
+    "body": "Like giving a poster to that member of your committee. They liked making worm refrigerator magnets, and superhero worms.",
+    "image": "news-2015-first-graders.jpg",
+    "alt": "Hand made worm refrigerator magnets in bright colors"
+  },
+  {
+    "date": "2015-03-28",
+    "tag": "Meeting",
+    "title": "The lab's first conference",
+    "body": "The 22nd Annual Animal Behavior Conference at Indiana University. Chance Bainbridge presented his new findings on magnetic sensation.",
+    "image": "news-2015-first-conference.jpg",
+    "alt": "Chance Bainbridge presenting his poster at the Animal Behavior Conference"
+  },
+  {
+    "date": "2015-03-04",
+    "tag": "Building",
+    "title": "Building a magnetic coil system from wood, wire and Legos",
+    "body": "A three axis Merritt coil system with no metal in the frame, a copper mesh Faraday cage for the plates, and a tower of Legos at the center to hold the worms. With all three coils wired, the lab could neutralize and reverse every component of the Earth's field.",
+    "image": "news-2015-coils.jpg",
+    "alt": "The wooden three axis coil frame wound with copper wire on the workshop bench"
+  },
+  {
+    "date": "2015-02-28",
+    "tag": "Poster",
+    "title": "Phi Sigma Symposium, two months in",
+    "body": "After two months setting up shop and learning worm husbandry, the lab presented three posters, plus one from visiting Texan Celia Beron. Chance Bainbridge won a best poster prize and the travel award that came with it.",
+    "image": "news-2015-phisigma.jpg",
+    "alt": "Chance Bainbridge presenting his poster at the Phi Sigma Symposium"
+  },
+  {
+    "date": "2015-02-11",
+    "tag": "Building",
+    "title": "Homemade dark room",
+    "body": "Blackout curtains around a bench, for imaging.",
+    "image": "news-2015-darkroom.jpg",
+    "alt": "A bench enclosed in black curtains with a student at a microscope inside"
+  },
+  {
+    "date": "2015-01-08",
+    "tag": "Lab life",
+    "title": "Daniel and Chance learn basic worm techniques",
+    "body": "The first two graduate students learning to pick worms.",
+    "image": "news-2015-first-students.jpg",
+    "alt": "Two graduate students at dissecting microscopes in the new lab"
+  },
+  {
+    "date": "2015-01-05",
+    "tag": "Milestone",
+    "title": "Open for business",
+    "body": "Still a work in progress, but getting there.",
+    "image": "news-2015-open.jpg",
+    "alt": "The new laboratory with benches set up and boxes still to unpack"
+  },
+  {
+    "date": "2014-12-30",
+    "tag": "Milestone",
+    "title": "The lab opens its doors",
+    "body": "Andres arrived at Illinois State to be greeted by two new graduate students and a room full of boxes and dreams.",
+    "image": "news-2014-boxes.jpg",
+    "alt": "Cardboard boxes stacked in the empty lab on the first day"
+  }
 ]
