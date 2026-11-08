@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07",
+ "generatedAt": "2026-11-08",
  "uniqueOutputs": {
   "posters": 165,
   "talks": 42,
@@ -257,7 +257,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Jack Fostiack",
@@ -268,7 +268,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Harrison Weidemiller",
@@ -301,7 +301,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Erin Cheeseman",
@@ -312,7 +312,7 @@
    "posters": "2",
    "talks": "1",
    "publications": "0",
-   "research": "Current lab member, best poster award Phi sigma 2026"
+   "research": "Best poster award Phi sigma 2026"
   },
   {
    "name": "Florence Ofurum",
@@ -334,7 +334,7 @@
    "posters": "2",
    "talks": "1",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Nevyn Laframboise",
@@ -367,7 +367,7 @@
    "posters": "3",
    "talks": "1",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Hope Fransen",
@@ -378,7 +378,7 @@
    "posters": "3",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Nora Armstrong",
@@ -400,13 +400,13 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Angelina Vera",
    "level": "Undergraduate",
-   "status": "Alumni",
-   "currentPosition": "Continuing undergraduate studies",
+   "status": "Current",
+   "currentPosition": "Undergraduate Researcher",
    "stemCareer": "Continuing",
    "posters": "0",
    "talks": "0",
@@ -422,7 +422,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Marcos Perez-Rodriguez",
@@ -438,8 +438,8 @@
   {
    "name": "Elyssa Guleng",
    "level": "Undergraduate",
-   "status": "Alumni",
-   "currentPosition": "Continuing undergraduate studies",
+   "status": "Current",
+   "currentPosition": "Undergraduate Researcher",
    "stemCareer": "Continuing",
    "posters": "0",
    "talks": "0",
@@ -2501,7 +2501,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Noelle W.",
@@ -2512,7 +2512,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Vidushi S.",
@@ -2523,7 +2523,7 @@
    "posters": "0",
    "talks": "0",
    "publications": "0",
-   "research": "Current lab member"
+   "research": ""
   },
   {
    "name": "Neal S.",
