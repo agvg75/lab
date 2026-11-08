@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26",
+ "generatedAt": "2026-11-07",
  "uniqueOutputs": {
   "posters": 165,
   "talks": 42,
@@ -381,17 +381,6 @@
    "research": "Current lab member"
   },
   {
-   "name": "Avinaash Muthukuman",
-   "level": "Undergraduate",
-   "status": "Alumni",
-   "currentPosition": "Undergraduate Researcher",
-   "stemCareer": "Continuing",
-   "posters": "0",
-   "talks": "0",
-   "publications": "0",
-   "research": "Current lab member"
-  },
-  {
    "name": "Nora Armstrong",
    "level": "Undergraduate",
    "status": "Current",
@@ -405,7 +394,7 @@
   {
    "name": "Vedika Garg",
    "level": "Undergraduate",
-   "status": "Inactive",
+   "status": "Alumni",
    "currentPosition": "Undergraduate Researcher",
    "stemCareer": "Continuing",
    "posters": "0",
@@ -416,7 +405,7 @@
   {
    "name": "Angelina Vera",
    "level": "Undergraduate",
-   "status": "Inactive",
+   "status": "Alumni",
    "currentPosition": "Undergraduate Researcher",
    "stemCareer": "Continuing",
    "posters": "0",
@@ -449,7 +438,7 @@
   {
    "name": "Elyssa Guleng",
    "level": "Undergraduate",
-   "status": "Inactive",
+   "status": "Alumni",
    "currentPosition": "Undergraduate Researcher",
    "stemCareer": "Continuing",
    "posters": "0",
@@ -1580,17 +1569,6 @@
    "research": "gradauted in college"
   },
   {
-   "name": "Abhinav Komandur",
-   "level": "High School",
-   "status": "Alumni",
-   "currentPosition": "college",
-   "stemCareer": "Yes",
-   "posters": 2,
-   "talks": 0,
-   "publications": 2,
-   "research": "gradauted in college"
-  },
-  {
    "name": "Anushi Kiribamune",
    "level": "High School",
    "status": "Alumni",
@@ -2372,17 +2350,6 @@
    "research": "CS Chancellor Scholar, UIUC"
   },
   {
-   "name": "Maanasa D.",
-   "level": "High School",
-   "status": "Alumni",
-   "currentPosition": "Neurobiology Major at University of Wisconsin-Madison",
-   "stemCareer": "Yes",
-   "posters": 0,
-   "talks": 0,
-   "publications": 0,
-   "research": "Neurobiology Major at University of Wisconsin-Madison"
-  },
-  {
    "name": "Nivita P.",
    "level": "High School",
    "status": "Alumni",
@@ -2447,17 +2414,6 @@
    "talks": "0",
    "publications": "1",
    "research": "Year-round lab member, published"
-  },
-  {
-   "name": "Nikhil S.",
-   "level": "High School",
-   "status": "Alumni",
-   "currentPosition": "BS Neuroscience, St Louis University",
-   "stemCareer": "Yes",
-   "posters": 0,
-   "talks": 0,
-   "publications": 0,
-   "research": "Former high school researcher"
   },
   {
    "name": "Chandler Huffman",
@@ -2535,6 +2491,83 @@
    "talks": "0",
    "publications": "0",
    "research": "Dystrophin isoform rescue constructs in dystrophic C. elegans (2026)"
+  },
+  {
+   "name": "Sumitra P.",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "High School Researcher",
+   "stemCareer": "Continuing",
+   "posters": "0",
+   "talks": "0",
+   "publications": "0",
+   "research": "Current lab member"
+  },
+  {
+   "name": "Noelle W.",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "High School Researcher",
+   "stemCareer": "Continuing",
+   "posters": "0",
+   "talks": "0",
+   "publications": "0",
+   "research": "Current lab member"
+  },
+  {
+   "name": "Vidushi S.",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "High School Researcher",
+   "stemCareer": "Continuing",
+   "posters": "0",
+   "talks": "0",
+   "publications": "0",
+   "research": "Current lab member"
+  },
+  {
+   "name": "Neal S.",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "",
+   "stemCareer": "",
+   "posters": "0",
+   "talks": "0",
+   "publications": "1",
+   "research": "Summer Research Academy graduate"
+  },
+  {
+   "name": "Abhilash P.",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "",
+   "stemCareer": "",
+   "posters": "0",
+   "talks": "0",
+   "publications": "0",
+   "research": ""
+  },
+  {
+   "name": "Annie G.",
+   "level": "High School",
+   "status": "Current",
+   "currentPosition": "University High School student",
+   "stemCareer": "",
+   "posters": "0",
+   "talks": "0",
+   "publications": "0",
+   "research": ""
+  },
+  {
+   "name": "Abhinav Komandur",
+   "level": "High School",
+   "status": "Alumni",
+   "currentPosition": "college",
+   "stemCareer": "Yes",
+   "posters": 2,
+   "talks": 0,
+   "publications": 2,
+   "research": "gradauted in college"
   }
  ]
 }
