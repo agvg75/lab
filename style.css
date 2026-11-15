@@ -352,6 +352,26 @@ details > summary:focus-visible {
 details[open] > summary { color: var(--red); }
 details > p { margin-top: 0.4rem; }
 
+/* Collapsible sections on the resources page */
+details.resgroup { padding: 0.9rem 0; }
+details.resgroup > summary { padding: 0.2rem 0; }
+details.resgroup > summary h2 {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 1.25rem;
+  color: inherit;
+}
+details.resgroup > summary .sub {
+  display: block;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0.15rem 0 0 1.1rem;
+}
+details.resgroup h3 { margin: 1rem 0 0.2rem; font-size: 1rem; }
+details.resgroup > .pubs { margin-top: 0.4rem; }
+
 /* News entries */
 .newsitem {
   border-top: 1px solid var(--rule);
